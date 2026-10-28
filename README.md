@@ -21,7 +21,7 @@ Rancangan memecahnya menjadi 13 pertanyaan (8 Utama, 4 Pendukung, 1 Tambahan) da
 
 ## 2. Data
 
-- Sumber: data simulasi buatan sendiri, dibuat oleh `scripts/generate_docs.py` dan `scripts/generate_measurements.py` (Versi: v1, rancangan; Tanggal dibuat: saat Tahap B dikerjakan). Tidak memakai datasheet produsen atau data perusahaan.
+- Sumber: data simulasi buatan sendiri, dibuat oleh `scripts/generate_docs.py` dan `scripts/generate_measurements.py` (Versi: v1; Tanggal dibuat: 28 Okt 2026; Seed: 26260302). Tidak memakai datasheet produsen atau data perusahaan.
 - Konteks: lampu LED model 5W, 9W, dan 12W, masing-masing 3 revisi spec; 6 parameter (luminous flux, daya, efikasi, CCT, CRI, power factor).
 - Ukuran (perkiraan): ±24 dokumen PDF; ±108.000 nilai hasil ukur (±18.000 unit × 6 parameter); gold set ±160 field berlabel manual.
 - Rencana tabel: `dim_spec`, `extraction_eval`, `measurement`, `compliance_result`.
