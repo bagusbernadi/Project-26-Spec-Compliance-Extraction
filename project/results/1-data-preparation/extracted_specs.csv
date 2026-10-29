@@ -1,0 +1,205 @@
+doc,method,model,revision,effective_date,parameter,lower,upper,unit,unit_source,page,label_raw
+LED_5W_Rev1.0_tabel.pdf,rule_basic,5W,Rev 1.0,2026-03-01,luminous_flux,400.0,,lm,dokumen,1,Luminous flux
+LED_5W_Rev1.0_tabel.pdf,rule_basic,5W,Rev 1.0,2026-03-01,power,,5.5,W,dokumen,1,Power consumption
+LED_5W_Rev1.0_tabel.pdf,rule_basic,5W,Rev 1.0,2026-03-01,efficacy,75.0,,lm/W,dokumen,1,Luminous efficacy
+LED_5W_Rev1.0_tabel.pdf,rule_basic,5W,Rev 1.0,2026-03-01,cct,6000.0,7000.0,K,dokumen,1,CCT
+LED_5W_Rev1.0_tabel.pdf,rule_basic,5W,Rev 1.0,2026-03-01,cri,80.0,,Ra,dokumen,1,CRI
+LED_5W_Rev1.0_tabel.pdf,rule_basic,5W,Rev 1.0,2026-03-01,power_factor,0.5,,,bawaan,1,Power factor
+LED_5W_Rev1.0_tabel.pdf,rule_full,5W,Rev 1.0,2026-03-01,luminous_flux,400.0,,lm,dokumen,1,Luminous flux
+LED_5W_Rev1.0_tabel.pdf,rule_full,5W,Rev 1.0,2026-03-01,power,,5.5,W,dokumen,1,Power consumption
+LED_5W_Rev1.0_tabel.pdf,rule_full,5W,Rev 1.0,2026-03-01,efficacy,75.0,,lm/W,dokumen,1,Luminous efficacy
+LED_5W_Rev1.0_tabel.pdf,rule_full,5W,Rev 1.0,2026-03-01,cct,6000.0,7000.0,K,dokumen,1,CCT
+LED_5W_Rev1.0_tabel.pdf,rule_full,5W,Rev 1.0,2026-03-01,cri,80.0,,Ra,dokumen,1,CRI
+LED_5W_Rev1.0_tabel.pdf,rule_full,5W,Rev 1.0,2026-03-01,power_factor,0.5,,,bawaan,1,Power factor
+LED_5W_Rev1.0_teks.pdf,rule_full,5W,Rev 1.0,2026-03-01,luminous_flux,400.0,,lm,dokumen,1,luminous flux
+LED_5W_Rev1.0_teks.pdf,rule_full,5W,Rev 1.0,2026-03-01,power,,5.5,W,dokumen,1,power
+LED_5W_Rev1.0_teks.pdf,rule_full,5W,Rev 1.0,2026-03-01,efficacy,75.0,,lm/W,dokumen,1,luminous efficacy
+LED_5W_Rev1.0_teks.pdf,rule_full,5W,Rev 1.0,2026-03-01,cct,6000.0,7000.0,K,dokumen,1,correlated colour temperature
+LED_5W_Rev1.0_teks.pdf,rule_full,5W,Rev 1.0,2026-03-01,cri,80.0,,Ra,bawaan,1,colour rendering index
+LED_5W_Rev1.0_teks.pdf,rule_full,5W,Rev 1.0,2026-03-01,power_factor,0.5,,,bawaan,1,power factor
+LED_5W_Rev2.0_tabel.pdf,rule_basic,5W,Rev 2.0,2026-05-01,luminous_flux,400.0,,lm,dokumen,1,Luminous flux
+LED_5W_Rev2.0_tabel.pdf,rule_basic,5W,Rev 2.0,2026-05-01,power,,5.5,W,dokumen,1,Power consumption
+LED_5W_Rev2.0_tabel.pdf,rule_basic,5W,Rev 2.0,2026-05-01,efficacy,75.0,,lm/W,dokumen,1,Luminous efficacy
+LED_5W_Rev2.0_tabel.pdf,rule_basic,5W,Rev 2.0,2026-05-01,cct,6000.0,7000.0,K,dokumen,1,CCT
+LED_5W_Rev2.0_tabel.pdf,rule_basic,5W,Rev 2.0,2026-05-01,cri,80.0,,Ra,dokumen,1,CRI
+LED_5W_Rev2.0_tabel.pdf,rule_basic,5W,Rev 2.0,2026-05-01,power_factor,0.5,,,bawaan,1,Power factor
+LED_5W_Rev2.0_tabel.pdf,rule_full,5W,Rev 2.0,2026-05-01,luminous_flux,400.0,,lm,dokumen,1,Luminous flux
+LED_5W_Rev2.0_tabel.pdf,rule_full,5W,Rev 2.0,2026-05-01,power,,5.5,W,dokumen,1,Power consumption
+LED_5W_Rev2.0_tabel.pdf,rule_full,5W,Rev 2.0,2026-05-01,efficacy,75.0,,lm/W,dokumen,1,Luminous efficacy
+LED_5W_Rev2.0_tabel.pdf,rule_full,5W,Rev 2.0,2026-05-01,cct,6000.0,7000.0,K,dokumen,1,CCT
+LED_5W_Rev2.0_tabel.pdf,rule_full,5W,Rev 2.0,2026-05-01,cri,80.0,,Ra,dokumen,1,CRI
+LED_5W_Rev2.0_tabel.pdf,rule_full,5W,Rev 2.0,2026-05-01,power_factor,0.5,,,bawaan,1,Power factor
+LED_5W_Rev2.0_terpotong.pdf,rule_basic,5W,Rev 2.0,2026-05-01,luminous_flux,400.0,,lm,dokumen,1,Luminous flux
+LED_5W_Rev2.0_terpotong.pdf,rule_basic,5W,Rev 2.0,2026-05-01,power,,5.5,W,dokumen,1,Power consumption
+LED_5W_Rev2.0_terpotong.pdf,rule_basic,5W,Rev 2.0,2026-05-01,efficacy,75.0,,lm/W,dokumen,1,Luminous efficacy
+LED_5W_Rev2.0_terpotong.pdf,rule_full,5W,Rev 2.0,2026-05-01,luminous_flux,400.0,,lm,dokumen,1,Luminous flux
+LED_5W_Rev2.0_terpotong.pdf,rule_full,5W,Rev 2.0,2026-05-01,power,,5.5,W,dokumen,1,Power consumption
+LED_5W_Rev2.0_terpotong.pdf,rule_full,5W,Rev 2.0,2026-05-01,efficacy,75.0,,lm/W,dokumen,1,Luminous efficacy
+LED_5W_Rev2.0_terpotong.pdf,rule_full,5W,Rev 2.0,2026-05-01,cct,6000.0,7000.0,K,dokumen,2,CCT
+LED_5W_Rev2.0_terpotong.pdf,rule_full,5W,Rev 2.0,2026-05-01,cri,80.0,,Ra,dokumen,2,CRI
+LED_5W_Rev2.0_terpotong.pdf,rule_full,5W,Rev 2.0,2026-05-01,power_factor,0.5,,,bawaan,2,Power factor
+LED_5W_Rev2.0_teks.pdf,rule_full,5W,Rev 2.0,2026-05-01,luminous_flux,400.0,,lm,dokumen,1,luminous flux
+LED_5W_Rev2.0_teks.pdf,rule_full,5W,Rev 2.0,2026-05-01,power,,5.5,W,dokumen,1,power
+LED_5W_Rev2.0_teks.pdf,rule_full,5W,Rev 2.0,2026-05-01,efficacy,75.0,,lm/W,dokumen,1,luminous efficacy
+LED_5W_Rev2.0_teks.pdf,rule_full,5W,Rev 2.0,2026-05-01,cct,6000.0,7000.0,K,dokumen,1,correlated colour temperature
+LED_5W_Rev2.0_teks.pdf,rule_full,5W,Rev 2.0,2026-05-01,cri,80.0,,Ra,bawaan,1,colour rendering index
+LED_5W_Rev2.0_teks.pdf,rule_full,5W,Rev 2.0,2026-05-01,power_factor,0.5,,,bawaan,1,power factor
+LED_5W_Rev3.0_tabel.pdf,rule_basic,5W,Rev 3.0,2026-07-01,luminous_flux,400.0,,lm,dokumen,1,Luminous flux
+LED_5W_Rev3.0_tabel.pdf,rule_basic,5W,Rev 3.0,2026-07-01,power,,5.5,W,dokumen,1,Power consumption
+LED_5W_Rev3.0_tabel.pdf,rule_basic,5W,Rev 3.0,2026-07-01,efficacy,78.0,,lm/W,dokumen,1,Luminous efficacy
+LED_5W_Rev3.0_tabel.pdf,rule_basic,5W,Rev 3.0,2026-07-01,cct,6000.0,7000.0,K,dokumen,1,CCT
+LED_5W_Rev3.0_tabel.pdf,rule_basic,5W,Rev 3.0,2026-07-01,cri,80.0,,Ra,dokumen,1,CRI
+LED_5W_Rev3.0_tabel.pdf,rule_basic,5W,Rev 3.0,2026-07-01,power_factor,0.5,,,bawaan,1,Power factor
+LED_5W_Rev3.0_tabel.pdf,rule_full,5W,Rev 3.0,2026-07-01,luminous_flux,400.0,,lm,dokumen,1,Luminous flux
+LED_5W_Rev3.0_tabel.pdf,rule_full,5W,Rev 3.0,2026-07-01,power,,5.5,W,dokumen,1,Power consumption
+LED_5W_Rev3.0_tabel.pdf,rule_full,5W,Rev 3.0,2026-07-01,efficacy,78.0,,lm/W,dokumen,1,Luminous efficacy
+LED_5W_Rev3.0_tabel.pdf,rule_full,5W,Rev 3.0,2026-07-01,cct,6000.0,7000.0,K,dokumen,1,CCT
+LED_5W_Rev3.0_tabel.pdf,rule_full,5W,Rev 3.0,2026-07-01,cri,80.0,,Ra,dokumen,1,CRI
+LED_5W_Rev3.0_tabel.pdf,rule_full,5W,Rev 3.0,2026-07-01,power_factor,0.5,,,bawaan,1,Power factor
+LED_5W_Rev3.0_teks.pdf,rule_full,5W,Rev 3.0,2026-07-01,luminous_flux,400.0,,lm,dokumen,1,luminous flux
+LED_5W_Rev3.0_teks.pdf,rule_full,5W,Rev 3.0,2026-07-01,power,,5.5,W,dokumen,1,power
+LED_5W_Rev3.0_teks.pdf,rule_full,5W,Rev 3.0,2026-07-01,efficacy,78.0,,lm/W,dokumen,1,luminous efficacy
+LED_5W_Rev3.0_teks.pdf,rule_full,5W,Rev 3.0,2026-07-01,cct,6000.0,7000.0,K,dokumen,1,correlated colour temperature
+LED_5W_Rev3.0_teks.pdf,rule_full,5W,Rev 3.0,2026-07-01,cri,80.0,,Ra,bawaan,1,colour rendering index
+LED_5W_Rev3.0_teks.pdf,rule_full,5W,Rev 3.0,2026-07-01,power_factor,0.5,,,bawaan,1,power factor
+LED_5W_Rev3.0_ringkas.pdf,rule_basic,5W,Rev 3.0,2026-07-01,cct,6000.0,7000.0,K,dokumen,1,CCT
+LED_5W_Rev3.0_ringkas.pdf,rule_full,5W,Rev 3.0,2026-07-01,luminous_flux,400.0,,lm,dokumen,1,Flux
+LED_5W_Rev3.0_ringkas.pdf,rule_full,5W,Rev 3.0,2026-07-01,power,,5.5,W,dokumen,1,Pwr
+LED_5W_Rev3.0_ringkas.pdf,rule_full,5W,Rev 3.0,2026-07-01,efficacy,78.0,,lm/W,dokumen,1,Eff.
+LED_5W_Rev3.0_ringkas.pdf,rule_full,5W,Rev 3.0,2026-07-01,cct,6000.0,7000.0,K,dokumen,1,CCT
+LED_5W_Rev3.0_ringkas.pdf,rule_full,5W,Rev 3.0,2026-07-01,cri,80.0,,Ra,dokumen,1,CRI (Ra)
+LED_5W_Rev3.0_ringkas.pdf,rule_full,5W,Rev 3.0,2026-07-01,power_factor,0.5,,,dokumen,1,PF
+LED_9W_Rev1.0_tabel.pdf,rule_basic,9W,Rev 1.0,2026-03-01,luminous_flux,800.0,,lm,dokumen,1,Luminous flux
+LED_9W_Rev1.0_tabel.pdf,rule_basic,9W,Rev 1.0,2026-03-01,power,,9.5,W,dokumen,1,Power consumption
+LED_9W_Rev1.0_tabel.pdf,rule_basic,9W,Rev 1.0,2026-03-01,efficacy,85.0,,lm/W,dokumen,1,Luminous efficacy
+LED_9W_Rev1.0_tabel.pdf,rule_basic,9W,Rev 1.0,2026-03-01,cct,6000.0,7000.0,K,dokumen,1,CCT
+LED_9W_Rev1.0_tabel.pdf,rule_basic,9W,Rev 1.0,2026-03-01,cri,80.0,,Ra,dokumen,1,CRI
+LED_9W_Rev1.0_tabel.pdf,rule_basic,9W,Rev 1.0,2026-03-01,power_factor,0.5,,,bawaan,1,Power factor
+LED_9W_Rev1.0_tabel.pdf,rule_full,9W,Rev 1.0,2026-03-01,luminous_flux,800.0,,lm,dokumen,1,Luminous flux
+LED_9W_Rev1.0_tabel.pdf,rule_full,9W,Rev 1.0,2026-03-01,power,,9.5,W,dokumen,1,Power consumption
+LED_9W_Rev1.0_tabel.pdf,rule_full,9W,Rev 1.0,2026-03-01,efficacy,85.0,,lm/W,dokumen,1,Luminous efficacy
+LED_9W_Rev1.0_tabel.pdf,rule_full,9W,Rev 1.0,2026-03-01,cct,6000.0,7000.0,K,dokumen,1,CCT
+LED_9W_Rev1.0_tabel.pdf,rule_full,9W,Rev 1.0,2026-03-01,cri,80.0,,Ra,dokumen,1,CRI
+LED_9W_Rev1.0_tabel.pdf,rule_full,9W,Rev 1.0,2026-03-01,power_factor,0.5,,,bawaan,1,Power factor
+LED_9W_Rev1.0_teks.pdf,rule_full,9W,Rev 1.0,2026-03-01,luminous_flux,800.0,,lm,dokumen,1,luminous flux
+LED_9W_Rev1.0_teks.pdf,rule_full,9W,Rev 1.0,2026-03-01,power,,9.5,W,dokumen,1,power
+LED_9W_Rev1.0_teks.pdf,rule_full,9W,Rev 1.0,2026-03-01,efficacy,85.0,,lm/W,dokumen,1,luminous efficacy
+LED_9W_Rev1.0_teks.pdf,rule_full,9W,Rev 1.0,2026-03-01,cct,6000.0,7000.0,K,dokumen,1,correlated colour temperature
+LED_9W_Rev1.0_teks.pdf,rule_full,9W,Rev 1.0,2026-03-01,cri,80.0,,Ra,bawaan,1,colour rendering index
+LED_9W_Rev1.0_teks.pdf,rule_full,9W,Rev 1.0,2026-03-01,power_factor,0.5,,,bawaan,1,power factor
+LED_9W_Rev2.0_tabel.pdf,rule_basic,9W,Rev 2.0,2026-05-01,luminous_flux,830.0,,lm,dokumen,1,Luminous flux
+LED_9W_Rev2.0_tabel.pdf,rule_basic,9W,Rev 2.0,2026-05-01,power,,9.5,W,dokumen,1,Power consumption
+LED_9W_Rev2.0_tabel.pdf,rule_basic,9W,Rev 2.0,2026-05-01,efficacy,85.0,,lm/W,dokumen,1,Luminous efficacy
+LED_9W_Rev2.0_tabel.pdf,rule_basic,9W,Rev 2.0,2026-05-01,cct,6000.0,7000.0,K,dokumen,1,CCT
+LED_9W_Rev2.0_tabel.pdf,rule_basic,9W,Rev 2.0,2026-05-01,cri,80.0,,Ra,dokumen,1,CRI
+LED_9W_Rev2.0_tabel.pdf,rule_basic,9W,Rev 2.0,2026-05-01,power_factor,0.5,,,bawaan,1,Power factor
+LED_9W_Rev2.0_tabel.pdf,rule_full,9W,Rev 2.0,2026-05-01,luminous_flux,830.0,,lm,dokumen,1,Luminous flux
+LED_9W_Rev2.0_tabel.pdf,rule_full,9W,Rev 2.0,2026-05-01,power,,9.5,W,dokumen,1,Power consumption
+LED_9W_Rev2.0_tabel.pdf,rule_full,9W,Rev 2.0,2026-05-01,efficacy,85.0,,lm/W,dokumen,1,Luminous efficacy
+LED_9W_Rev2.0_tabel.pdf,rule_full,9W,Rev 2.0,2026-05-01,cct,6000.0,7000.0,K,dokumen,1,CCT
+LED_9W_Rev2.0_tabel.pdf,rule_full,9W,Rev 2.0,2026-05-01,cri,80.0,,Ra,dokumen,1,CRI
+LED_9W_Rev2.0_tabel.pdf,rule_full,9W,Rev 2.0,2026-05-01,power_factor,0.5,,,bawaan,1,Power factor
+LED_9W_Rev2.0_terpotong.pdf,rule_basic,9W,Rev 2.0,2026-05-01,luminous_flux,830.0,,lm,dokumen,1,Luminous flux
+LED_9W_Rev2.0_terpotong.pdf,rule_basic,9W,Rev 2.0,2026-05-01,power,,9.5,W,dokumen,1,Power consumption
+LED_9W_Rev2.0_terpotong.pdf,rule_basic,9W,Rev 2.0,2026-05-01,efficacy,85.0,,lm/W,dokumen,1,Luminous efficacy
+LED_9W_Rev2.0_terpotong.pdf,rule_full,9W,Rev 2.0,2026-05-01,luminous_flux,830.0,,lm,dokumen,1,Luminous flux
+LED_9W_Rev2.0_terpotong.pdf,rule_full,9W,Rev 2.0,2026-05-01,power,,9.5,W,dokumen,1,Power consumption
+LED_9W_Rev2.0_terpotong.pdf,rule_full,9W,Rev 2.0,2026-05-01,efficacy,85.0,,lm/W,dokumen,1,Luminous efficacy
+LED_9W_Rev2.0_terpotong.pdf,rule_full,9W,Rev 2.0,2026-05-01,cct,6000.0,7000.0,K,dokumen,2,CCT
+LED_9W_Rev2.0_terpotong.pdf,rule_full,9W,Rev 2.0,2026-05-01,cri,80.0,,Ra,dokumen,2,CRI
+LED_9W_Rev2.0_terpotong.pdf,rule_full,9W,Rev 2.0,2026-05-01,power_factor,0.5,,,bawaan,2,Power factor
+LED_9W_Rev3.0_tabel.pdf,rule_basic,9W,Rev 3.0,2026-07-01,luminous_flux,830.0,,lm,dokumen,1,Luminous flux
+LED_9W_Rev3.0_tabel.pdf,rule_basic,9W,Rev 3.0,2026-07-01,power,,9.5,W,dokumen,1,Power consumption
+LED_9W_Rev3.0_tabel.pdf,rule_basic,9W,Rev 3.0,2026-07-01,efficacy,85.0,,lm/W,dokumen,1,Luminous efficacy
+LED_9W_Rev3.0_tabel.pdf,rule_basic,9W,Rev 3.0,2026-07-01,cct,6000.0,7000.0,K,dokumen,1,CCT
+LED_9W_Rev3.0_tabel.pdf,rule_basic,9W,Rev 3.0,2026-07-01,cri,80.0,,Ra,dokumen,1,CRI
+LED_9W_Rev3.0_tabel.pdf,rule_basic,9W,Rev 3.0,2026-07-01,power_factor,0.5,,,bawaan,1,Power factor
+LED_9W_Rev3.0_tabel.pdf,rule_full,9W,Rev 3.0,2026-07-01,luminous_flux,830.0,,lm,dokumen,1,Luminous flux
+LED_9W_Rev3.0_tabel.pdf,rule_full,9W,Rev 3.0,2026-07-01,power,,9.5,W,dokumen,1,Power consumption
+LED_9W_Rev3.0_tabel.pdf,rule_full,9W,Rev 3.0,2026-07-01,efficacy,85.0,,lm/W,dokumen,1,Luminous efficacy
+LED_9W_Rev3.0_tabel.pdf,rule_full,9W,Rev 3.0,2026-07-01,cct,6000.0,7000.0,K,dokumen,1,CCT
+LED_9W_Rev3.0_tabel.pdf,rule_full,9W,Rev 3.0,2026-07-01,cri,80.0,,Ra,dokumen,1,CRI
+LED_9W_Rev3.0_tabel.pdf,rule_full,9W,Rev 3.0,2026-07-01,power_factor,0.5,,,bawaan,1,Power factor
+LED_9W_Rev3.0_teks.pdf,rule_full,9W,Rev 3.0,2026-07-01,luminous_flux,830.0,,lm,dokumen,1,luminous flux
+LED_9W_Rev3.0_teks.pdf,rule_full,9W,Rev 3.0,2026-07-01,power,,9.5,W,dokumen,1,power
+LED_9W_Rev3.0_teks.pdf,rule_full,9W,Rev 3.0,2026-07-01,efficacy,85.0,,lm/W,dokumen,1,luminous efficacy
+LED_9W_Rev3.0_teks.pdf,rule_full,9W,Rev 3.0,2026-07-01,cct,6000.0,7000.0,K,dokumen,1,correlated colour temperature
+LED_9W_Rev3.0_teks.pdf,rule_full,9W,Rev 3.0,2026-07-01,cri,80.0,,Ra,bawaan,1,colour rendering index
+LED_9W_Rev3.0_teks.pdf,rule_full,9W,Rev 3.0,2026-07-01,power_factor,0.5,,,bawaan,1,power factor
+LED_9W_Rev3.0_ringkas.pdf,rule_basic,9W,Rev 3.0,2026-07-01,cct,6000.0,7000.0,K,dokumen,1,CCT
+LED_9W_Rev3.0_ringkas.pdf,rule_full,9W,Rev 3.0,2026-07-01,luminous_flux,830.0,,lm,dokumen,1,Flux
+LED_9W_Rev3.0_ringkas.pdf,rule_full,9W,Rev 3.0,2026-07-01,power,,9.5,W,dokumen,1,Pwr
+LED_9W_Rev3.0_ringkas.pdf,rule_full,9W,Rev 3.0,2026-07-01,efficacy,85.0,,lm/W,dokumen,1,Eff.
+LED_9W_Rev3.0_ringkas.pdf,rule_full,9W,Rev 3.0,2026-07-01,cct,6000.0,7000.0,K,dokumen,1,CCT
+LED_9W_Rev3.0_ringkas.pdf,rule_full,9W,Rev 3.0,2026-07-01,cri,80.0,,Ra,dokumen,1,CRI (Ra)
+LED_9W_Rev3.0_ringkas.pdf,rule_full,9W,Rev 3.0,2026-07-01,power_factor,0.5,,,dokumen,1,PF
+LED_12W_Rev1.0_tabel.pdf,rule_basic,12W,Rev 1.0,2026-03-01,luminous_flux,1100.0,,lm,dokumen,1,Luminous flux
+LED_12W_Rev1.0_tabel.pdf,rule_basic,12W,Rev 1.0,2026-03-01,power,,12.5,W,dokumen,1,Power consumption
+LED_12W_Rev1.0_tabel.pdf,rule_basic,12W,Rev 1.0,2026-03-01,efficacy,90.0,,lm/W,dokumen,1,Luminous efficacy
+LED_12W_Rev1.0_tabel.pdf,rule_basic,12W,Rev 1.0,2026-03-01,cct,6000.0,7000.0,K,dokumen,1,CCT
+LED_12W_Rev1.0_tabel.pdf,rule_basic,12W,Rev 1.0,2026-03-01,cri,80.0,,Ra,dokumen,1,CRI
+LED_12W_Rev1.0_tabel.pdf,rule_basic,12W,Rev 1.0,2026-03-01,power_factor,0.9,,,bawaan,1,Power factor
+LED_12W_Rev1.0_tabel.pdf,rule_full,12W,Rev 1.0,2026-03-01,luminous_flux,1100.0,,lm,dokumen,1,Luminous flux
+LED_12W_Rev1.0_tabel.pdf,rule_full,12W,Rev 1.0,2026-03-01,power,,12.5,W,dokumen,1,Power consumption
+LED_12W_Rev1.0_tabel.pdf,rule_full,12W,Rev 1.0,2026-03-01,efficacy,90.0,,lm/W,dokumen,1,Luminous efficacy
+LED_12W_Rev1.0_tabel.pdf,rule_full,12W,Rev 1.0,2026-03-01,cct,6000.0,7000.0,K,dokumen,1,CCT
+LED_12W_Rev1.0_tabel.pdf,rule_full,12W,Rev 1.0,2026-03-01,cri,80.0,,Ra,dokumen,1,CRI
+LED_12W_Rev1.0_tabel.pdf,rule_full,12W,Rev 1.0,2026-03-01,power_factor,0.9,,,bawaan,1,Power factor
+LED_12W_Rev1.0_teks.pdf,rule_full,12W,Rev 1.0,2026-03-01,luminous_flux,1100.0,,lm,dokumen,1,luminous flux
+LED_12W_Rev1.0_teks.pdf,rule_full,12W,Rev 1.0,2026-03-01,power,,12.5,W,dokumen,1,power
+LED_12W_Rev1.0_teks.pdf,rule_full,12W,Rev 1.0,2026-03-01,efficacy,90.0,,lm/W,dokumen,1,luminous efficacy
+LED_12W_Rev1.0_teks.pdf,rule_full,12W,Rev 1.0,2026-03-01,cct,6000.0,7000.0,K,dokumen,1,correlated colour temperature
+LED_12W_Rev1.0_teks.pdf,rule_full,12W,Rev 1.0,2026-03-01,cri,80.0,,Ra,bawaan,1,colour rendering index
+LED_12W_Rev1.0_teks.pdf,rule_full,12W,Rev 1.0,2026-03-01,power_factor,0.9,,,bawaan,1,power factor
+LED_12W_Rev2.0_tabel.pdf,rule_basic,12W,Rev 2.0,2026-05-01,luminous_flux,1100.0,,lm,dokumen,1,Luminous flux
+LED_12W_Rev2.0_tabel.pdf,rule_basic,12W,Rev 2.0,2026-05-01,power,,12.5,W,dokumen,1,Power consumption
+LED_12W_Rev2.0_tabel.pdf,rule_basic,12W,Rev 2.0,2026-05-01,efficacy,90.0,,lm/W,dokumen,1,Luminous efficacy
+LED_12W_Rev2.0_tabel.pdf,rule_basic,12W,Rev 2.0,2026-05-01,cct,6000.0,7000.0,K,dokumen,1,CCT
+LED_12W_Rev2.0_tabel.pdf,rule_basic,12W,Rev 2.0,2026-05-01,cri,80.0,,Ra,dokumen,1,CRI
+LED_12W_Rev2.0_tabel.pdf,rule_basic,12W,Rev 2.0,2026-05-01,power_factor,0.9,,,bawaan,1,Power factor
+LED_12W_Rev2.0_tabel.pdf,rule_full,12W,Rev 2.0,2026-05-01,luminous_flux,1100.0,,lm,dokumen,1,Luminous flux
+LED_12W_Rev2.0_tabel.pdf,rule_full,12W,Rev 2.0,2026-05-01,power,,12.5,W,dokumen,1,Power consumption
+LED_12W_Rev2.0_tabel.pdf,rule_full,12W,Rev 2.0,2026-05-01,efficacy,90.0,,lm/W,dokumen,1,Luminous efficacy
+LED_12W_Rev2.0_tabel.pdf,rule_full,12W,Rev 2.0,2026-05-01,cct,6000.0,7000.0,K,dokumen,1,CCT
+LED_12W_Rev2.0_tabel.pdf,rule_full,12W,Rev 2.0,2026-05-01,cri,80.0,,Ra,dokumen,1,CRI
+LED_12W_Rev2.0_tabel.pdf,rule_full,12W,Rev 2.0,2026-05-01,power_factor,0.9,,,bawaan,1,Power factor
+LED_12W_Rev2.0_terpotong.pdf,rule_basic,12W,Rev 2.0,2026-05-01,luminous_flux,1100.0,,lm,dokumen,1,Luminous flux
+LED_12W_Rev2.0_terpotong.pdf,rule_basic,12W,Rev 2.0,2026-05-01,power,,12.5,W,dokumen,1,Power consumption
+LED_12W_Rev2.0_terpotong.pdf,rule_basic,12W,Rev 2.0,2026-05-01,efficacy,90.0,,lm/W,dokumen,1,Luminous efficacy
+LED_12W_Rev2.0_terpotong.pdf,rule_full,12W,Rev 2.0,2026-05-01,luminous_flux,1100.0,,lm,dokumen,1,Luminous flux
+LED_12W_Rev2.0_terpotong.pdf,rule_full,12W,Rev 2.0,2026-05-01,power,,12.5,W,dokumen,1,Power consumption
+LED_12W_Rev2.0_terpotong.pdf,rule_full,12W,Rev 2.0,2026-05-01,efficacy,90.0,,lm/W,dokumen,1,Luminous efficacy
+LED_12W_Rev2.0_terpotong.pdf,rule_full,12W,Rev 2.0,2026-05-01,cct,6000.0,7000.0,K,dokumen,2,CCT
+LED_12W_Rev2.0_terpotong.pdf,rule_full,12W,Rev 2.0,2026-05-01,cri,80.0,,Ra,dokumen,2,CRI
+LED_12W_Rev2.0_terpotong.pdf,rule_full,12W,Rev 2.0,2026-05-01,power_factor,0.9,,,bawaan,2,Power factor
+LED_12W_Rev2.0_teks.pdf,rule_full,12W,Rev 2.0,2026-05-01,luminous_flux,1100.0,,lm,dokumen,1,luminous flux
+LED_12W_Rev2.0_teks.pdf,rule_full,12W,Rev 2.0,2026-05-01,power,,12.5,W,dokumen,1,power
+LED_12W_Rev2.0_teks.pdf,rule_full,12W,Rev 2.0,2026-05-01,efficacy,90.0,,lm/W,dokumen,1,luminous efficacy
+LED_12W_Rev2.0_teks.pdf,rule_full,12W,Rev 2.0,2026-05-01,cct,6000.0,7000.0,K,dokumen,1,correlated colour temperature
+LED_12W_Rev2.0_teks.pdf,rule_full,12W,Rev 2.0,2026-05-01,cri,80.0,,Ra,bawaan,1,colour rendering index
+LED_12W_Rev2.0_teks.pdf,rule_full,12W,Rev 2.0,2026-05-01,power_factor,0.9,,,bawaan,1,power factor
+LED_12W_Rev3.0_tabel.pdf,rule_basic,12W,Rev 3.0,2026-07-01,luminous_flux,1100.0,,lm,dokumen,1,Luminous flux
+LED_12W_Rev3.0_tabel.pdf,rule_basic,12W,Rev 3.0,2026-07-01,power,,12.5,W,dokumen,1,Power consumption
+LED_12W_Rev3.0_tabel.pdf,rule_basic,12W,Rev 3.0,2026-07-01,efficacy,92.0,,lm/W,dokumen,1,Luminous efficacy
+LED_12W_Rev3.0_tabel.pdf,rule_basic,12W,Rev 3.0,2026-07-01,cct,6000.0,7000.0,K,dokumen,1,CCT
+LED_12W_Rev3.0_tabel.pdf,rule_basic,12W,Rev 3.0,2026-07-01,cri,80.0,,Ra,dokumen,1,CRI
+LED_12W_Rev3.0_tabel.pdf,rule_basic,12W,Rev 3.0,2026-07-01,power_factor,0.9,,,bawaan,1,Power factor
+LED_12W_Rev3.0_tabel.pdf,rule_full,12W,Rev 3.0,2026-07-01,luminous_flux,1100.0,,lm,dokumen,1,Luminous flux
+LED_12W_Rev3.0_tabel.pdf,rule_full,12W,Rev 3.0,2026-07-01,power,,12.5,W,dokumen,1,Power consumption
+LED_12W_Rev3.0_tabel.pdf,rule_full,12W,Rev 3.0,2026-07-01,efficacy,92.0,,lm/W,dokumen,1,Luminous efficacy
+LED_12W_Rev3.0_tabel.pdf,rule_full,12W,Rev 3.0,2026-07-01,cct,6000.0,7000.0,K,dokumen,1,CCT
+LED_12W_Rev3.0_tabel.pdf,rule_full,12W,Rev 3.0,2026-07-01,cri,80.0,,Ra,dokumen,1,CRI
+LED_12W_Rev3.0_tabel.pdf,rule_full,12W,Rev 3.0,2026-07-01,power_factor,0.9,,,bawaan,1,Power factor
+LED_12W_Rev3.0_teks.pdf,rule_full,12W,Rev 3.0,2026-07-01,luminous_flux,1100.0,,lm,dokumen,1,luminous flux
+LED_12W_Rev3.0_teks.pdf,rule_full,12W,Rev 3.0,2026-07-01,power,,12.5,W,dokumen,1,power
+LED_12W_Rev3.0_teks.pdf,rule_full,12W,Rev 3.0,2026-07-01,efficacy,92.0,,lm/W,dokumen,1,luminous efficacy
+LED_12W_Rev3.0_teks.pdf,rule_full,12W,Rev 3.0,2026-07-01,cct,6000.0,7000.0,K,dokumen,1,correlated colour temperature
+LED_12W_Rev3.0_teks.pdf,rule_full,12W,Rev 3.0,2026-07-01,cri,80.0,,Ra,bawaan,1,colour rendering index
+LED_12W_Rev3.0_teks.pdf,rule_full,12W,Rev 3.0,2026-07-01,power_factor,0.9,,,bawaan,1,power factor
+LED_12W_Rev3.0_ringkas.pdf,rule_basic,12W,Rev 3.0,2026-07-01,cct,6000.0,7000.0,K,dokumen,1,CCT
+LED_12W_Rev3.0_ringkas.pdf,rule_full,12W,Rev 3.0,2026-07-01,luminous_flux,1100.0,,lm,dokumen,1,Flux
+LED_12W_Rev3.0_ringkas.pdf,rule_full,12W,Rev 3.0,2026-07-01,power,,12.5,W,dokumen,1,Pwr
+LED_12W_Rev3.0_ringkas.pdf,rule_full,12W,Rev 3.0,2026-07-01,efficacy,92.0,,lm/W,dokumen,1,Eff.
+LED_12W_Rev3.0_ringkas.pdf,rule_full,12W,Rev 3.0,2026-07-01,cct,6000.0,7000.0,K,dokumen,1,CCT
+LED_12W_Rev3.0_ringkas.pdf,rule_full,12W,Rev 3.0,2026-07-01,cri,80.0,,Ra,dokumen,1,CRI (Ra)
+LED_12W_Rev3.0_ringkas.pdf,rule_full,12W,Rev 3.0,2026-07-01,power_factor,0.9,,,dokumen,1,PF

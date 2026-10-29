@@ -1,0 +1,4 @@
+minutes_per_doc,docs_in_data,hours_in_data_period,hours_per_year,basis
+10,24,4.0,8.0,asumsi menit/dokumen; data sekitar 6 bulan x2
+20,24,8.0,16.0,asumsi menit/dokumen; data sekitar 6 bulan x2
+30,24,12.0,24.0,asumsi menit/dokumen; data sekitar 6 bulan x2

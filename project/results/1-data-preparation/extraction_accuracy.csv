@@ -1,0 +1,37 @@
+method,scope,group,n,correct,accuracy
+rule_basic,Semua field,semua,160,75,0.46875
+rule_basic,Jenis field,max,29,15,0.5172413793103449
+rule_basic,Jenis field,min,71,28,0.39436619718309857
+rule_basic,Jenis field,unit,60,32,0.5333333333333333
+rule_basic,Format dokumen,ringkas,20,5,0.25
+rule_basic,Format dokumen,tabel,62,62,1.0
+rule_basic,Format dokumen,teks,58,0,0.0
+rule_basic,Format dokumen,terpotong,20,8,0.4
+rule_basic,Parameter,cct,44,22,0.5
+rule_basic,Parameter,cri,27,12,0.4444444444444444
+rule_basic,Parameter,efficacy,22,12,0.5454545454545454
+rule_basic,Parameter,luminous_flux,26,12,0.46153846153846156
+rule_basic,Parameter,power,24,12,0.5
+rule_basic,Parameter,power_factor,17,5,0.29411764705882354
+rule_basic,Tingkat,parameter terbaca,111,51,0.4594594594594595
+rule_basic,Tingkat,batas (min dan max),100,43,0.43
+rule_basic,Tingkat,satuan,60,32,0.5333333333333333
+rule_basic,Dokumen,semua field gold benar,23,9,0.391304347826087
+rule_full,Semua field,semua,160,160,1.0
+rule_full,Jenis field,max,29,29,1.0
+rule_full,Jenis field,min,71,71,1.0
+rule_full,Jenis field,unit,60,60,1.0
+rule_full,Format dokumen,ringkas,20,20,1.0
+rule_full,Format dokumen,tabel,62,62,1.0
+rule_full,Format dokumen,teks,58,58,1.0
+rule_full,Format dokumen,terpotong,20,20,1.0
+rule_full,Parameter,cct,44,44,1.0
+rule_full,Parameter,cri,27,27,1.0
+rule_full,Parameter,efficacy,22,22,1.0
+rule_full,Parameter,luminous_flux,26,26,1.0
+rule_full,Parameter,power,24,24,1.0
+rule_full,Parameter,power_factor,17,17,1.0
+rule_full,Tingkat,parameter terbaca,111,111,1.0
+rule_full,Tingkat,batas (min dan max),100,100,1.0
+rule_full,Tingkat,satuan,60,60,1.0
+rule_full,Dokumen,semua field gold benar,23,23,1.0

@@ -1,0 +1,3 @@
+stale_revision,n_units,units_truly_fail,units_fail_hidden,units_false_alarm,rows_truly_fail,rows_fail_hidden,share_fail_hidden_units,share_fail_hidden_rows
+Rev 1.0,18000,254.0,54.0,0.0,255.0,54.0,0.2125984251968504,0.21176470588235294
+Rev 2.0,18000,254.0,3.0,28.0,255.0,3.0,0.011811023622047244,0.011764705882352941

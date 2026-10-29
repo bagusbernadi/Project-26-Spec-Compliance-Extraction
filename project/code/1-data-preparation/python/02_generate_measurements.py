@@ -1,8 +1,8 @@
 """Project 26: hasil ukur lampu LED (simulasi), format panjang (long), plus kebenaran compliance. Seed tetap.
 
 +-18.000 unit x 6 parameter = 108.000 nilai selama +-6 bulan (130 hari kerja). Putusan compliance kebenaran dihitung dari revisi spec
-yang berlaku pada tanggal uji. Hasil (data/sim/): measurement.csv (dengan data kotor), truth_compliance.csv, ground_truth_meas.json.
-Jalankan: python scripts/generate_measurements.py   (versi data: v1)
+yang berlaku pada tanggal uji. Hasil (project/data/raw/): measurement.csv (dengan data kotor), truth_compliance.csv, ground_truth_meas.json.
+Jalankan: python project/code/1-data-preparation/python/02_generate_measurements.py   (versi data: v1)
 """
 import json
 import sys
@@ -11,11 +11,11 @@ from pathlib import Path
 import numpy as np
 import pandas as pd
 
-sys.path.insert(0, str(Path(__file__).resolve().parent))
-from spec_data import MEAS, MODELS, PARAMS, REVS, SPEC, UNIT, rev_on
+sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
+from common import RAW_DIR  # noqa: E402
+from spec_data import MEAS, MODELS, PARAMS, REVS, SPEC, UNIT, rev_on  # noqa: E402
 
-ROOT = Path(__file__).resolve().parents[1]
-OUT = ROOT / "data" / "sim"
+OUT = RAW_DIR
 SEED = 26260999
 DATA_VERSION = "v1"
 N_UNITS, N_DAYS, START = 18_000, 130, "2026-03-02"
@@ -52,19 +52,21 @@ kinds = ["blank", "text_na", "sentinel", "wrong_unit", "duplicate_row"]
 dirty, dup = [], []
 for k, i in enumerate(pick):
     kind = kinds[k % 5]
+    effect = kind
     if kind == "blank": M.at[i, "value"] = None
     elif kind == "text_na": M.at[i, "value"] = "N/A"
     elif kind == "sentinel": M.at[i, "value"] = -999
     elif kind == "wrong_unit":
         if M.at[i, "parameter"] == "power": M.at[i, "value"] = round(float(M.at[i, "value"]) * 1000, 1); M.at[i, "unit"] = "mW"
-        else: M.at[i, "value"] = None
+        else: M.at[i, "value"] = None; effect = "wrong_unit_blank"
     else: dup.append(i)
-    dirty.append([unit_id[i % N_UNITS], M.at[i, "parameter"], kind])
+    dirty.append([unit_id[i % N_UNITS], M.at[i, "parameter"], kind, effect])
 M["_o"] = np.arange(len(M), dtype=float)
 d2 = M.loc[dup].copy(); d2["_o"] += 0.5
 M = pd.concat([M, d2]).sort_values("_o").drop(columns="_o").reset_index(drop=True)
 
 OUT.mkdir(parents=True, exist_ok=True)
+pd.DataFrame(dirty, columns=["unit_id", "parameter", "kind", "effect"]).to_csv(OUT / "truth_dirty.csv", index=False)   # tambahan v1.1: log data kotor yang ditanam
 M.to_csv(OUT / "measurement.csv", index=False)
 C.to_csv(OUT / "truth_compliance.csv", index=False)
 pr = C.groupby(["parameter"])["pass"].mean().round(4).to_dict()

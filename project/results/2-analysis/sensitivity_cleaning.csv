@@ -1,0 +1,4 @@
+perlakuan,n_rows,pass_rate,n_fail,cri_12w_pass_rate,top_fail_param
+A. Mentah apa adanya,108540,0.9786253915607149,2320,0.9605922055301546,cri
+B. Baris bermasalah dibuang semua,105840,0.9975907029478458,255,0.9792549631942895,cri
+C. Cleaning sesuai log (dipakai),105939,0.9975929544360433,255,0.9792549631942895,cri

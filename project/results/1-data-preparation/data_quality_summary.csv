@@ -1,0 +1,2 @@
+table,raw_rows,clean_rows,bad_rows,bad_pct,dropped,fixed
+measurement,108540,105939,2700,2.4876,2601,99

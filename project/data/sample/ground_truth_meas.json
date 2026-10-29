@@ -1,0 +1,33 @@
+{
+  "seed": 26260999,
+  "version": "v1",
+  "n_units": 18000,
+  "n_values_clean": 108000,
+  "n_rows_with_dirt": 108540,
+  "pass_rate_clean": {
+    "cct": 0.9997,
+    "cri": 0.9935,
+    "efficacy": 0.9998,
+    "luminous_flux": 0.9957,
+    "power": 0.9993,
+    "power_factor": 0.9977
+  },
+  "pass_rate_flux_9W_by_revision": {
+    "Rev 1.0": 1.0,
+    "Rev 2.0": 0.9884,
+    "Rev 3.0": 0.9894
+  },
+  "median_margin_sd_cri_by_model": {
+    "12W": 2.0,
+    "5W": 2.86,
+    "9W": 2.86
+  },
+  "dirty_rate": 0.025,
+  "dirty_types": [
+    "blank",
+    "text_na",
+    "sentinel",
+    "wrong_unit",
+    "duplicate_row"
+  ]
+}

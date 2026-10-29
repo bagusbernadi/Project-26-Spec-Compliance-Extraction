@@ -1,0 +1,25 @@
+file,model,revision,effective_date,format,text_layer
+LED_5W_Rev1.0_tabel.pdf,5W,Rev 1.0,2026-03-01,tabel,teks
+LED_5W_Rev1.0_teks.pdf,5W,Rev 1.0,2026-03-01,teks,teks
+LED_5W_Rev2.0_tabel.pdf,5W,Rev 2.0,2026-05-01,tabel,teks
+LED_5W_Rev2.0_terpotong.pdf,5W,Rev 2.0,2026-05-01,terpotong,teks
+LED_5W_Rev2.0_teks.pdf,5W,Rev 2.0,2026-05-01,teks,teks
+LED_5W_Rev3.0_tabel.pdf,5W,Rev 3.0,2026-07-01,tabel,teks
+LED_5W_Rev3.0_teks.pdf,5W,Rev 3.0,2026-07-01,teks,teks
+LED_5W_Rev3.0_ringkas.pdf,5W,Rev 3.0,2026-07-01,ringkas,teks
+LED_9W_Rev1.0_tabel.pdf,9W,Rev 1.0,2026-03-01,tabel,teks
+LED_9W_Rev1.0_teks.pdf,9W,Rev 1.0,2026-03-01,teks,teks
+LED_9W_Rev2.0_tabel.pdf,9W,Rev 2.0,2026-05-01,tabel,teks
+LED_9W_Rev2.0_terpotong.pdf,9W,Rev 2.0,2026-05-01,terpotong,teks
+LED_9W_Rev2.0_teks_scan.pdf,9W,Rev 2.0,2026-05-01,teks_scan,scan (tanpa lapisan teks)
+LED_9W_Rev3.0_tabel.pdf,9W,Rev 3.0,2026-07-01,tabel,teks
+LED_9W_Rev3.0_teks.pdf,9W,Rev 3.0,2026-07-01,teks,teks
+LED_9W_Rev3.0_ringkas.pdf,9W,Rev 3.0,2026-07-01,ringkas,teks
+LED_12W_Rev1.0_tabel.pdf,12W,Rev 1.0,2026-03-01,tabel,teks
+LED_12W_Rev1.0_teks.pdf,12W,Rev 1.0,2026-03-01,teks,teks
+LED_12W_Rev2.0_tabel.pdf,12W,Rev 2.0,2026-05-01,tabel,teks
+LED_12W_Rev2.0_terpotong.pdf,12W,Rev 2.0,2026-05-01,terpotong,teks
+LED_12W_Rev2.0_teks.pdf,12W,Rev 2.0,2026-05-01,teks,teks
+LED_12W_Rev3.0_tabel.pdf,12W,Rev 3.0,2026-07-01,tabel,teks
+LED_12W_Rev3.0_teks.pdf,12W,Rev 3.0,2026-07-01,teks,teks
+LED_12W_Rev3.0_ringkas.pdf,12W,Rev 3.0,2026-07-01,ringkas,teks

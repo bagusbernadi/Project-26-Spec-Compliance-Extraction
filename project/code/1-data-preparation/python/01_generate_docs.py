@@ -1,9 +1,9 @@
 """Project 26: datasheet PDF spesifikasi lampu LED (simulasi), gold set, dan spesifikasi kebenaran. Seed tetap.
 
 3 model (5W, 9W, 12W) x 3 revisi x beberapa format = 24 PDF: tabel bersih, tabel terpotong halaman, teks, ringkas (simbol berbeda),
-dan satu PDF hasil scan (hanya gambar, tanpa lapisan teks). Hasil (data/sim/docs/): *.pdf; data/sim/: dim_spec_truth.csv,
+dan satu PDF hasil scan (hanya gambar, tanpa lapisan teks). Hasil (project/data/raw/docs/): *.pdf; project/data/raw/: dim_spec_truth.csv,
 doc_manifest.csv, gold_set.csv (+-160 field berlabel), ground_truth_docs.json.
-Jalankan: python scripts/generate_docs.py   (versi data: v1; butuh reportlab dan Pillow)
+Jalankan: python project/code/1-data-preparation/python/01_generate_docs.py   (versi data: v1; butuh reportlab dan Pillow)
 """
 import io
 import json
@@ -20,11 +20,11 @@ from reportlab.lib.units import mm
 from reportlab.pdfgen import canvas
 from reportlab.platypus import PageBreak, Paragraph, SimpleDocTemplate, Spacer, Table, TableStyle
 
-sys.path.insert(0, str(Path(__file__).resolve().parent))
-from spec_data import EFFECTIVE, MODELS, PARAMS, REVS, SPEC, UNIT
+sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
+from common import RAW_DIR  # noqa: E402
+from spec_data import EFFECTIVE, MODELS, PARAMS, REVS, SPEC, UNIT  # noqa: E402
 
-ROOT = Path(__file__).resolve().parents[1]
-OUT = ROOT / "data" / "sim"
+OUT = RAW_DIR
 SEED = 26260302
 DATA_VERSION = "v1"
 GOLD_N = 160

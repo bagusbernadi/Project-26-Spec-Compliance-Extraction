@@ -1,0 +1,6 @@
+issue,description,planted,found,match
+duplicate,Baris ganda,540,540,True
+blank,Nilai kosong (termasuk kolom satuan salah yang nilainya kosong),981,981,True
+text_na,Teks N/A,540,540,True
+sentinel,Sentinel -999,540,540,True
+mW,Power dalam mW,99,99,True

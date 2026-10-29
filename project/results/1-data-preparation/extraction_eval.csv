@@ -1,0 +1,321 @@
+doc,model,revision,format,parameter,field,method,extracted_value,label_value,is_correct,error_type
+LED_5W_Rev1.0_tabel.pdf,5W,Rev 1.0,tabel,luminous_flux,min,rule_basic,400.0,400.0,True,
+LED_5W_Rev1.0_tabel.pdf,5W,Rev 1.0,tabel,luminous_flux,unit,rule_basic,lm,lm,True,
+LED_5W_Rev1.0_tabel.pdf,5W,Rev 1.0,tabel,power,max,rule_basic,5.5,5.5,True,
+LED_5W_Rev1.0_tabel.pdf,5W,Rev 1.0,tabel,power,unit,rule_basic,W,W,True,
+LED_5W_Rev1.0_tabel.pdf,5W,Rev 1.0,tabel,efficacy,min,rule_basic,75.0,75.0,True,
+LED_5W_Rev1.0_tabel.pdf,5W,Rev 1.0,tabel,efficacy,unit,rule_basic,lm/W,lm/W,True,
+LED_5W_Rev1.0_tabel.pdf,5W,Rev 1.0,tabel,cct,min,rule_basic,6000.0,6000.0,True,
+LED_5W_Rev1.0_tabel.pdf,5W,Rev 1.0,tabel,cct,max,rule_basic,7000.0,7000.0,True,
+LED_5W_Rev1.0_tabel.pdf,5W,Rev 1.0,tabel,cct,unit,rule_basic,K,K,True,
+LED_5W_Rev1.0_tabel.pdf,5W,Rev 1.0,tabel,cri,unit,rule_basic,Ra,Ra,True,
+LED_5W_Rev1.0_tabel.pdf,5W,Rev 1.0,tabel,power_factor,min,rule_basic,0.5,0.5,True,
+LED_5W_Rev1.0_teks.pdf,5W,Rev 1.0,teks,luminous_flux,min,rule_basic,,400.0,False,Format kalimat (bukan tabel)
+LED_5W_Rev1.0_teks.pdf,5W,Rev 1.0,teks,luminous_flux,unit,rule_basic,,lm,False,Format kalimat (bukan tabel)
+LED_5W_Rev1.0_teks.pdf,5W,Rev 1.0,teks,power,unit,rule_basic,,W,False,Format kalimat (bukan tabel)
+LED_5W_Rev1.0_teks.pdf,5W,Rev 1.0,teks,cct,min,rule_basic,,6000.0,False,Format kalimat (bukan tabel)
+LED_5W_Rev1.0_teks.pdf,5W,Rev 1.0,teks,cct,max,rule_basic,,7000.0,False,Format kalimat (bukan tabel)
+LED_5W_Rev1.0_teks.pdf,5W,Rev 1.0,teks,cri,min,rule_basic,,80.0,False,Format kalimat (bukan tabel)
+LED_5W_Rev1.0_teks.pdf,5W,Rev 1.0,teks,cri,unit,rule_basic,,Ra,False,Format kalimat (bukan tabel)
+LED_5W_Rev1.0_teks.pdf,5W,Rev 1.0,teks,power_factor,min,rule_basic,,0.5,False,Format kalimat (bukan tabel)
+LED_5W_Rev2.0_tabel.pdf,5W,Rev 2.0,tabel,luminous_flux,min,rule_basic,400.0,400.0,True,
+LED_5W_Rev2.0_tabel.pdf,5W,Rev 2.0,tabel,power,unit,rule_basic,W,W,True,
+LED_5W_Rev2.0_tabel.pdf,5W,Rev 2.0,tabel,efficacy,min,rule_basic,75.0,75.0,True,
+LED_5W_Rev2.0_tabel.pdf,5W,Rev 2.0,tabel,efficacy,unit,rule_basic,lm/W,lm/W,True,
+LED_5W_Rev2.0_tabel.pdf,5W,Rev 2.0,tabel,cri,min,rule_basic,80.0,80.0,True,
+LED_5W_Rev2.0_tabel.pdf,5W,Rev 2.0,tabel,cri,unit,rule_basic,Ra,Ra,True,
+LED_5W_Rev2.0_tabel.pdf,5W,Rev 2.0,tabel,power_factor,min,rule_basic,0.5,0.5,True,
+LED_5W_Rev2.0_terpotong.pdf,5W,Rev 2.0,terpotong,luminous_flux,unit,rule_basic,lm,lm,True,
+LED_5W_Rev2.0_terpotong.pdf,5W,Rev 2.0,terpotong,power,max,rule_basic,5.5,5.5,True,
+LED_5W_Rev2.0_terpotong.pdf,5W,Rev 2.0,terpotong,power,unit,rule_basic,W,W,True,
+LED_5W_Rev2.0_terpotong.pdf,5W,Rev 2.0,terpotong,cri,min,rule_basic,,80.0,False,Tabel terpotong ke halaman berikutnya
+LED_5W_Rev2.0_terpotong.pdf,5W,Rev 2.0,terpotong,power_factor,min,rule_basic,,0.5,False,Tabel terpotong ke halaman berikutnya
+LED_5W_Rev2.0_teks.pdf,5W,Rev 2.0,teks,luminous_flux,min,rule_basic,,400.0,False,Format kalimat (bukan tabel)
+LED_5W_Rev2.0_teks.pdf,5W,Rev 2.0,teks,luminous_flux,unit,rule_basic,,lm,False,Format kalimat (bukan tabel)
+LED_5W_Rev2.0_teks.pdf,5W,Rev 2.0,teks,power,unit,rule_basic,,W,False,Format kalimat (bukan tabel)
+LED_5W_Rev2.0_teks.pdf,5W,Rev 2.0,teks,efficacy,min,rule_basic,,75.0,False,Format kalimat (bukan tabel)
+LED_5W_Rev2.0_teks.pdf,5W,Rev 2.0,teks,efficacy,unit,rule_basic,,lm/W,False,Format kalimat (bukan tabel)
+LED_5W_Rev2.0_teks.pdf,5W,Rev 2.0,teks,cct,max,rule_basic,,7000.0,False,Format kalimat (bukan tabel)
+LED_5W_Rev2.0_teks.pdf,5W,Rev 2.0,teks,cct,unit,rule_basic,,K,False,Format kalimat (bukan tabel)
+LED_5W_Rev2.0_teks.pdf,5W,Rev 2.0,teks,cri,min,rule_basic,,80.0,False,Format kalimat (bukan tabel)
+LED_5W_Rev2.0_teks.pdf,5W,Rev 2.0,teks,power_factor,min,rule_basic,,0.5,False,Format kalimat (bukan tabel)
+LED_5W_Rev3.0_tabel.pdf,5W,Rev 3.0,tabel,luminous_flux,min,rule_basic,400.0,400.0,True,
+LED_5W_Rev3.0_tabel.pdf,5W,Rev 3.0,tabel,luminous_flux,unit,rule_basic,lm,lm,True,
+LED_5W_Rev3.0_tabel.pdf,5W,Rev 3.0,tabel,power,max,rule_basic,5.5,5.5,True,
+LED_5W_Rev3.0_tabel.pdf,5W,Rev 3.0,tabel,efficacy,min,rule_basic,78.0,78.0,True,
+LED_5W_Rev3.0_tabel.pdf,5W,Rev 3.0,tabel,cct,max,rule_basic,7000.0,7000.0,True,
+LED_5W_Rev3.0_tabel.pdf,5W,Rev 3.0,tabel,cct,unit,rule_basic,K,K,True,
+LED_5W_Rev3.0_teks.pdf,5W,Rev 3.0,teks,luminous_flux,min,rule_basic,,400.0,False,Format kalimat (bukan tabel)
+LED_5W_Rev3.0_teks.pdf,5W,Rev 3.0,teks,power,max,rule_basic,,5.5,False,Format kalimat (bukan tabel)
+LED_5W_Rev3.0_teks.pdf,5W,Rev 3.0,teks,efficacy,unit,rule_basic,,lm/W,False,Format kalimat (bukan tabel)
+LED_5W_Rev3.0_teks.pdf,5W,Rev 3.0,teks,cct,min,rule_basic,,6000.0,False,Format kalimat (bukan tabel)
+LED_5W_Rev3.0_teks.pdf,5W,Rev 3.0,teks,cct,max,rule_basic,,7000.0,False,Format kalimat (bukan tabel)
+LED_5W_Rev3.0_teks.pdf,5W,Rev 3.0,teks,cri,unit,rule_basic,,Ra,False,Format kalimat (bukan tabel)
+LED_5W_Rev3.0_teks.pdf,5W,Rev 3.0,teks,power_factor,min,rule_basic,,0.5,False,Format kalimat (bukan tabel)
+LED_5W_Rev3.0_ringkas.pdf,5W,Rev 3.0,ringkas,luminous_flux,min,rule_basic,,400.0,False,Label singkatan tidak dikenal
+LED_5W_Rev3.0_ringkas.pdf,5W,Rev 3.0,ringkas,power,max,rule_basic,,5.5,False,Label singkatan tidak dikenal
+LED_5W_Rev3.0_ringkas.pdf,5W,Rev 3.0,ringkas,efficacy,min,rule_basic,,78.0,False,Label singkatan tidak dikenal
+LED_5W_Rev3.0_ringkas.pdf,5W,Rev 3.0,ringkas,cct,max,rule_basic,7000.0,7000.0,True,
+LED_5W_Rev3.0_ringkas.pdf,5W,Rev 3.0,ringkas,cct,unit,rule_basic,K,K,True,
+LED_5W_Rev3.0_ringkas.pdf,5W,Rev 3.0,ringkas,power_factor,min,rule_basic,,0.5,False,Label singkatan tidak dikenal
+LED_9W_Rev1.0_tabel.pdf,9W,Rev 1.0,tabel,power,unit,rule_basic,W,W,True,
+LED_9W_Rev1.0_tabel.pdf,9W,Rev 1.0,tabel,cct,max,rule_basic,7000.0,7000.0,True,
+LED_9W_Rev1.0_tabel.pdf,9W,Rev 1.0,tabel,cct,unit,rule_basic,K,K,True,
+LED_9W_Rev1.0_tabel.pdf,9W,Rev 1.0,tabel,cri,min,rule_basic,80.0,80.0,True,
+LED_9W_Rev1.0_tabel.pdf,9W,Rev 1.0,tabel,power_factor,min,rule_basic,0.5,0.5,True,
+LED_9W_Rev1.0_teks.pdf,9W,Rev 1.0,teks,power,max,rule_basic,,9.5,False,Format kalimat (bukan tabel)
+LED_9W_Rev1.0_teks.pdf,9W,Rev 1.0,teks,efficacy,min,rule_basic,,85.0,False,Format kalimat (bukan tabel)
+LED_9W_Rev1.0_teks.pdf,9W,Rev 1.0,teks,cct,min,rule_basic,,6000.0,False,Format kalimat (bukan tabel)
+LED_9W_Rev1.0_teks.pdf,9W,Rev 1.0,teks,cct,max,rule_basic,,7000.0,False,Format kalimat (bukan tabel)
+LED_9W_Rev1.0_teks.pdf,9W,Rev 1.0,teks,cri,min,rule_basic,,80.0,False,Format kalimat (bukan tabel)
+LED_9W_Rev1.0_teks.pdf,9W,Rev 1.0,teks,cri,unit,rule_basic,,Ra,False,Format kalimat (bukan tabel)
+LED_9W_Rev2.0_tabel.pdf,9W,Rev 2.0,tabel,power,max,rule_basic,9.5,9.5,True,
+LED_9W_Rev2.0_tabel.pdf,9W,Rev 2.0,tabel,efficacy,min,rule_basic,85.0,85.0,True,
+LED_9W_Rev2.0_tabel.pdf,9W,Rev 2.0,tabel,cct,min,rule_basic,6000.0,6000.0,True,
+LED_9W_Rev2.0_tabel.pdf,9W,Rev 2.0,tabel,cri,min,rule_basic,80.0,80.0,True,
+LED_9W_Rev2.0_terpotong.pdf,9W,Rev 2.0,terpotong,efficacy,unit,rule_basic,lm/W,lm/W,True,
+LED_9W_Rev2.0_terpotong.pdf,9W,Rev 2.0,terpotong,cct,min,rule_basic,,6000.0,False,Tabel terpotong ke halaman berikutnya
+LED_9W_Rev2.0_terpotong.pdf,9W,Rev 2.0,terpotong,cct,max,rule_basic,,7000.0,False,Tabel terpotong ke halaman berikutnya
+LED_9W_Rev2.0_terpotong.pdf,9W,Rev 2.0,terpotong,cct,unit,rule_basic,,K,False,Tabel terpotong ke halaman berikutnya
+LED_9W_Rev2.0_terpotong.pdf,9W,Rev 2.0,terpotong,cri,min,rule_basic,,80.0,False,Tabel terpotong ke halaman berikutnya
+LED_9W_Rev2.0_terpotong.pdf,9W,Rev 2.0,terpotong,power_factor,min,rule_basic,,0.5,False,Tabel terpotong ke halaman berikutnya
+LED_9W_Rev3.0_tabel.pdf,9W,Rev 3.0,tabel,luminous_flux,min,rule_basic,830.0,830.0,True,
+LED_9W_Rev3.0_tabel.pdf,9W,Rev 3.0,tabel,luminous_flux,unit,rule_basic,lm,lm,True,
+LED_9W_Rev3.0_tabel.pdf,9W,Rev 3.0,tabel,efficacy,min,rule_basic,85.0,85.0,True,
+LED_9W_Rev3.0_tabel.pdf,9W,Rev 3.0,tabel,efficacy,unit,rule_basic,lm/W,lm/W,True,
+LED_9W_Rev3.0_tabel.pdf,9W,Rev 3.0,tabel,cct,min,rule_basic,6000.0,6000.0,True,
+LED_9W_Rev3.0_tabel.pdf,9W,Rev 3.0,tabel,cct,max,rule_basic,7000.0,7000.0,True,
+LED_9W_Rev3.0_tabel.pdf,9W,Rev 3.0,tabel,cct,unit,rule_basic,K,K,True,
+LED_9W_Rev3.0_tabel.pdf,9W,Rev 3.0,tabel,cri,unit,rule_basic,Ra,Ra,True,
+LED_9W_Rev3.0_tabel.pdf,9W,Rev 3.0,tabel,power_factor,min,rule_basic,0.5,0.5,True,
+LED_9W_Rev3.0_teks.pdf,9W,Rev 3.0,teks,luminous_flux,unit,rule_basic,,lm,False,Format kalimat (bukan tabel)
+LED_9W_Rev3.0_teks.pdf,9W,Rev 3.0,teks,efficacy,min,rule_basic,,85.0,False,Format kalimat (bukan tabel)
+LED_9W_Rev3.0_teks.pdf,9W,Rev 3.0,teks,efficacy,unit,rule_basic,,lm/W,False,Format kalimat (bukan tabel)
+LED_9W_Rev3.0_teks.pdf,9W,Rev 3.0,teks,cct,min,rule_basic,,6000.0,False,Format kalimat (bukan tabel)
+LED_9W_Rev3.0_teks.pdf,9W,Rev 3.0,teks,cct,unit,rule_basic,,K,False,Format kalimat (bukan tabel)
+LED_9W_Rev3.0_teks.pdf,9W,Rev 3.0,teks,cri,min,rule_basic,,80.0,False,Format kalimat (bukan tabel)
+LED_9W_Rev3.0_teks.pdf,9W,Rev 3.0,teks,cri,unit,rule_basic,,Ra,False,Format kalimat (bukan tabel)
+LED_9W_Rev3.0_teks.pdf,9W,Rev 3.0,teks,power_factor,min,rule_basic,,0.5,False,Format kalimat (bukan tabel)
+LED_9W_Rev3.0_ringkas.pdf,9W,Rev 3.0,ringkas,luminous_flux,unit,rule_basic,,lm,False,Label singkatan tidak dikenal
+LED_9W_Rev3.0_ringkas.pdf,9W,Rev 3.0,ringkas,power,max,rule_basic,,9.5,False,Label singkatan tidak dikenal
+LED_9W_Rev3.0_ringkas.pdf,9W,Rev 3.0,ringkas,power,unit,rule_basic,,W,False,Label singkatan tidak dikenal
+LED_9W_Rev3.0_ringkas.pdf,9W,Rev 3.0,ringkas,cct,max,rule_basic,7000.0,7000.0,True,
+LED_9W_Rev3.0_ringkas.pdf,9W,Rev 3.0,ringkas,power_factor,min,rule_basic,,0.5,False,Label singkatan tidak dikenal
+LED_12W_Rev1.0_tabel.pdf,12W,Rev 1.0,tabel,luminous_flux,unit,rule_basic,lm,lm,True,
+LED_12W_Rev1.0_tabel.pdf,12W,Rev 1.0,tabel,power,max,rule_basic,12.5,12.5,True,
+LED_12W_Rev1.0_tabel.pdf,12W,Rev 1.0,tabel,cct,min,rule_basic,6000.0,6000.0,True,
+LED_12W_Rev1.0_tabel.pdf,12W,Rev 1.0,tabel,cct,max,rule_basic,7000.0,7000.0,True,
+LED_12W_Rev1.0_tabel.pdf,12W,Rev 1.0,tabel,cct,unit,rule_basic,K,K,True,
+LED_12W_Rev1.0_tabel.pdf,12W,Rev 1.0,tabel,cri,min,rule_basic,80.0,80.0,True,
+LED_12W_Rev1.0_tabel.pdf,12W,Rev 1.0,tabel,cri,unit,rule_basic,Ra,Ra,True,
+LED_12W_Rev1.0_teks.pdf,12W,Rev 1.0,teks,luminous_flux,unit,rule_basic,,lm,False,Format kalimat (bukan tabel)
+LED_12W_Rev1.0_teks.pdf,12W,Rev 1.0,teks,power,unit,rule_basic,,W,False,Format kalimat (bukan tabel)
+LED_12W_Rev1.0_teks.pdf,12W,Rev 1.0,teks,efficacy,min,rule_basic,,90.0,False,Format kalimat (bukan tabel)
+LED_12W_Rev1.0_teks.pdf,12W,Rev 1.0,teks,cct,min,rule_basic,,6000.0,False,Format kalimat (bukan tabel)
+LED_12W_Rev1.0_teks.pdf,12W,Rev 1.0,teks,cri,min,rule_basic,,80.0,False,Format kalimat (bukan tabel)
+LED_12W_Rev2.0_tabel.pdf,12W,Rev 2.0,tabel,luminous_flux,min,rule_basic,1100.0,1100.0,True,
+LED_12W_Rev2.0_tabel.pdf,12W,Rev 2.0,tabel,power,unit,rule_basic,W,W,True,
+LED_12W_Rev2.0_tabel.pdf,12W,Rev 2.0,tabel,efficacy,unit,rule_basic,lm/W,lm/W,True,
+LED_12W_Rev2.0_tabel.pdf,12W,Rev 2.0,tabel,cct,max,rule_basic,7000.0,7000.0,True,
+LED_12W_Rev2.0_tabel.pdf,12W,Rev 2.0,tabel,cct,unit,rule_basic,K,K,True,
+LED_12W_Rev2.0_tabel.pdf,12W,Rev 2.0,tabel,cri,min,rule_basic,80.0,80.0,True,
+LED_12W_Rev2.0_tabel.pdf,12W,Rev 2.0,tabel,cri,unit,rule_basic,Ra,Ra,True,
+LED_12W_Rev2.0_terpotong.pdf,12W,Rev 2.0,terpotong,luminous_flux,unit,rule_basic,lm,lm,True,
+LED_12W_Rev2.0_terpotong.pdf,12W,Rev 2.0,terpotong,power,max,rule_basic,12.5,12.5,True,
+LED_12W_Rev2.0_terpotong.pdf,12W,Rev 2.0,terpotong,efficacy,min,rule_basic,90.0,90.0,True,
+LED_12W_Rev2.0_terpotong.pdf,12W,Rev 2.0,terpotong,efficacy,unit,rule_basic,lm/W,lm/W,True,
+LED_12W_Rev2.0_terpotong.pdf,12W,Rev 2.0,terpotong,cct,min,rule_basic,,6000.0,False,Tabel terpotong ke halaman berikutnya
+LED_12W_Rev2.0_terpotong.pdf,12W,Rev 2.0,terpotong,cct,max,rule_basic,,7000.0,False,Tabel terpotong ke halaman berikutnya
+LED_12W_Rev2.0_terpotong.pdf,12W,Rev 2.0,terpotong,cct,unit,rule_basic,,K,False,Tabel terpotong ke halaman berikutnya
+LED_12W_Rev2.0_terpotong.pdf,12W,Rev 2.0,terpotong,cri,min,rule_basic,,80.0,False,Tabel terpotong ke halaman berikutnya
+LED_12W_Rev2.0_terpotong.pdf,12W,Rev 2.0,terpotong,power_factor,min,rule_basic,,0.9,False,Tabel terpotong ke halaman berikutnya
+LED_12W_Rev2.0_teks.pdf,12W,Rev 2.0,teks,luminous_flux,min,rule_basic,,1100.0,False,Format kalimat (bukan tabel)
+LED_12W_Rev2.0_teks.pdf,12W,Rev 2.0,teks,luminous_flux,unit,rule_basic,,lm,False,Format kalimat (bukan tabel)
+LED_12W_Rev2.0_teks.pdf,12W,Rev 2.0,teks,power,unit,rule_basic,,W,False,Format kalimat (bukan tabel)
+LED_12W_Rev2.0_teks.pdf,12W,Rev 2.0,teks,efficacy,min,rule_basic,,90.0,False,Format kalimat (bukan tabel)
+LED_12W_Rev2.0_teks.pdf,12W,Rev 2.0,teks,efficacy,unit,rule_basic,,lm/W,False,Format kalimat (bukan tabel)
+LED_12W_Rev2.0_teks.pdf,12W,Rev 2.0,teks,cct,min,rule_basic,,6000.0,False,Format kalimat (bukan tabel)
+LED_12W_Rev2.0_teks.pdf,12W,Rev 2.0,teks,cct,max,rule_basic,,7000.0,False,Format kalimat (bukan tabel)
+LED_12W_Rev2.0_teks.pdf,12W,Rev 2.0,teks,cri,min,rule_basic,,80.0,False,Format kalimat (bukan tabel)
+LED_12W_Rev2.0_teks.pdf,12W,Rev 2.0,teks,power_factor,min,rule_basic,,0.9,False,Format kalimat (bukan tabel)
+LED_12W_Rev3.0_tabel.pdf,12W,Rev 3.0,tabel,luminous_flux,min,rule_basic,1100.0,1100.0,True,
+LED_12W_Rev3.0_tabel.pdf,12W,Rev 3.0,tabel,power,max,rule_basic,12.5,12.5,True,
+LED_12W_Rev3.0_tabel.pdf,12W,Rev 3.0,tabel,cct,unit,rule_basic,K,K,True,
+LED_12W_Rev3.0_tabel.pdf,12W,Rev 3.0,tabel,cri,min,rule_basic,80.0,80.0,True,
+LED_12W_Rev3.0_tabel.pdf,12W,Rev 3.0,tabel,cri,unit,rule_basic,Ra,Ra,True,
+LED_12W_Rev3.0_tabel.pdf,12W,Rev 3.0,tabel,power_factor,min,rule_basic,0.9,0.9,True,
+LED_12W_Rev3.0_teks.pdf,12W,Rev 3.0,teks,luminous_flux,unit,rule_basic,,lm,False,Format kalimat (bukan tabel)
+LED_12W_Rev3.0_teks.pdf,12W,Rev 3.0,teks,power,max,rule_basic,,12.5,False,Format kalimat (bukan tabel)
+LED_12W_Rev3.0_teks.pdf,12W,Rev 3.0,teks,cct,min,rule_basic,,6000.0,False,Format kalimat (bukan tabel)
+LED_12W_Rev3.0_teks.pdf,12W,Rev 3.0,teks,cct,max,rule_basic,,7000.0,False,Format kalimat (bukan tabel)
+LED_12W_Rev3.0_teks.pdf,12W,Rev 3.0,teks,cct,unit,rule_basic,,K,False,Format kalimat (bukan tabel)
+LED_12W_Rev3.0_teks.pdf,12W,Rev 3.0,teks,power_factor,min,rule_basic,,0.9,False,Format kalimat (bukan tabel)
+LED_12W_Rev3.0_ringkas.pdf,12W,Rev 3.0,ringkas,luminous_flux,min,rule_basic,,1100.0,False,Label singkatan tidak dikenal
+LED_12W_Rev3.0_ringkas.pdf,12W,Rev 3.0,ringkas,luminous_flux,unit,rule_basic,,lm,False,Label singkatan tidak dikenal
+LED_12W_Rev3.0_ringkas.pdf,12W,Rev 3.0,ringkas,power,max,rule_basic,,12.5,False,Label singkatan tidak dikenal
+LED_12W_Rev3.0_ringkas.pdf,12W,Rev 3.0,ringkas,power,unit,rule_basic,,W,False,Label singkatan tidak dikenal
+LED_12W_Rev3.0_ringkas.pdf,12W,Rev 3.0,ringkas,cct,min,rule_basic,6000.0,6000.0,True,
+LED_12W_Rev3.0_ringkas.pdf,12W,Rev 3.0,ringkas,cct,unit,rule_basic,K,K,True,
+LED_12W_Rev3.0_ringkas.pdf,12W,Rev 3.0,ringkas,cri,min,rule_basic,,80.0,False,Label singkatan tidak dikenal
+LED_12W_Rev3.0_ringkas.pdf,12W,Rev 3.0,ringkas,cri,unit,rule_basic,,Ra,False,Label singkatan tidak dikenal
+LED_12W_Rev3.0_ringkas.pdf,12W,Rev 3.0,ringkas,power_factor,min,rule_basic,,0.9,False,Label singkatan tidak dikenal
+LED_5W_Rev1.0_tabel.pdf,5W,Rev 1.0,tabel,luminous_flux,min,rule_full,400.0,400.0,True,
+LED_5W_Rev1.0_tabel.pdf,5W,Rev 1.0,tabel,luminous_flux,unit,rule_full,lm,lm,True,
+LED_5W_Rev1.0_tabel.pdf,5W,Rev 1.0,tabel,power,max,rule_full,5.5,5.5,True,
+LED_5W_Rev1.0_tabel.pdf,5W,Rev 1.0,tabel,power,unit,rule_full,W,W,True,
+LED_5W_Rev1.0_tabel.pdf,5W,Rev 1.0,tabel,efficacy,min,rule_full,75.0,75.0,True,
+LED_5W_Rev1.0_tabel.pdf,5W,Rev 1.0,tabel,efficacy,unit,rule_full,lm/W,lm/W,True,
+LED_5W_Rev1.0_tabel.pdf,5W,Rev 1.0,tabel,cct,min,rule_full,6000.0,6000.0,True,
+LED_5W_Rev1.0_tabel.pdf,5W,Rev 1.0,tabel,cct,max,rule_full,7000.0,7000.0,True,
+LED_5W_Rev1.0_tabel.pdf,5W,Rev 1.0,tabel,cct,unit,rule_full,K,K,True,
+LED_5W_Rev1.0_tabel.pdf,5W,Rev 1.0,tabel,cri,unit,rule_full,Ra,Ra,True,
+LED_5W_Rev1.0_tabel.pdf,5W,Rev 1.0,tabel,power_factor,min,rule_full,0.5,0.5,True,
+LED_5W_Rev1.0_teks.pdf,5W,Rev 1.0,teks,luminous_flux,min,rule_full,400.0,400.0,True,
+LED_5W_Rev1.0_teks.pdf,5W,Rev 1.0,teks,luminous_flux,unit,rule_full,lm,lm,True,
+LED_5W_Rev1.0_teks.pdf,5W,Rev 1.0,teks,power,unit,rule_full,W,W,True,
+LED_5W_Rev1.0_teks.pdf,5W,Rev 1.0,teks,cct,min,rule_full,6000.0,6000.0,True,
+LED_5W_Rev1.0_teks.pdf,5W,Rev 1.0,teks,cct,max,rule_full,7000.0,7000.0,True,
+LED_5W_Rev1.0_teks.pdf,5W,Rev 1.0,teks,cri,min,rule_full,80.0,80.0,True,
+LED_5W_Rev1.0_teks.pdf,5W,Rev 1.0,teks,cri,unit,rule_full,Ra,Ra,True,
+LED_5W_Rev1.0_teks.pdf,5W,Rev 1.0,teks,power_factor,min,rule_full,0.5,0.5,True,
+LED_5W_Rev2.0_tabel.pdf,5W,Rev 2.0,tabel,luminous_flux,min,rule_full,400.0,400.0,True,
+LED_5W_Rev2.0_tabel.pdf,5W,Rev 2.0,tabel,power,unit,rule_full,W,W,True,
+LED_5W_Rev2.0_tabel.pdf,5W,Rev 2.0,tabel,efficacy,min,rule_full,75.0,75.0,True,
+LED_5W_Rev2.0_tabel.pdf,5W,Rev 2.0,tabel,efficacy,unit,rule_full,lm/W,lm/W,True,
+LED_5W_Rev2.0_tabel.pdf,5W,Rev 2.0,tabel,cri,min,rule_full,80.0,80.0,True,
+LED_5W_Rev2.0_tabel.pdf,5W,Rev 2.0,tabel,cri,unit,rule_full,Ra,Ra,True,
+LED_5W_Rev2.0_tabel.pdf,5W,Rev 2.0,tabel,power_factor,min,rule_full,0.5,0.5,True,
+LED_5W_Rev2.0_terpotong.pdf,5W,Rev 2.0,terpotong,luminous_flux,unit,rule_full,lm,lm,True,
+LED_5W_Rev2.0_terpotong.pdf,5W,Rev 2.0,terpotong,power,max,rule_full,5.5,5.5,True,
+LED_5W_Rev2.0_terpotong.pdf,5W,Rev 2.0,terpotong,power,unit,rule_full,W,W,True,
+LED_5W_Rev2.0_terpotong.pdf,5W,Rev 2.0,terpotong,cri,min,rule_full,80.0,80.0,True,
+LED_5W_Rev2.0_terpotong.pdf,5W,Rev 2.0,terpotong,power_factor,min,rule_full,0.5,0.5,True,
+LED_5W_Rev2.0_teks.pdf,5W,Rev 2.0,teks,luminous_flux,min,rule_full,400.0,400.0,True,
+LED_5W_Rev2.0_teks.pdf,5W,Rev 2.0,teks,luminous_flux,unit,rule_full,lm,lm,True,
+LED_5W_Rev2.0_teks.pdf,5W,Rev 2.0,teks,power,unit,rule_full,W,W,True,
+LED_5W_Rev2.0_teks.pdf,5W,Rev 2.0,teks,efficacy,min,rule_full,75.0,75.0,True,
+LED_5W_Rev2.0_teks.pdf,5W,Rev 2.0,teks,efficacy,unit,rule_full,lm/W,lm/W,True,
+LED_5W_Rev2.0_teks.pdf,5W,Rev 2.0,teks,cct,max,rule_full,7000.0,7000.0,True,
+LED_5W_Rev2.0_teks.pdf,5W,Rev 2.0,teks,cct,unit,rule_full,K,K,True,
+LED_5W_Rev2.0_teks.pdf,5W,Rev 2.0,teks,cri,min,rule_full,80.0,80.0,True,
+LED_5W_Rev2.0_teks.pdf,5W,Rev 2.0,teks,power_factor,min,rule_full,0.5,0.5,True,
+LED_5W_Rev3.0_tabel.pdf,5W,Rev 3.0,tabel,luminous_flux,min,rule_full,400.0,400.0,True,
+LED_5W_Rev3.0_tabel.pdf,5W,Rev 3.0,tabel,luminous_flux,unit,rule_full,lm,lm,True,
+LED_5W_Rev3.0_tabel.pdf,5W,Rev 3.0,tabel,power,max,rule_full,5.5,5.5,True,
+LED_5W_Rev3.0_tabel.pdf,5W,Rev 3.0,tabel,efficacy,min,rule_full,78.0,78.0,True,
+LED_5W_Rev3.0_tabel.pdf,5W,Rev 3.0,tabel,cct,max,rule_full,7000.0,7000.0,True,
+LED_5W_Rev3.0_tabel.pdf,5W,Rev 3.0,tabel,cct,unit,rule_full,K,K,True,
+LED_5W_Rev3.0_teks.pdf,5W,Rev 3.0,teks,luminous_flux,min,rule_full,400.0,400.0,True,
+LED_5W_Rev3.0_teks.pdf,5W,Rev 3.0,teks,power,max,rule_full,5.5,5.5,True,
+LED_5W_Rev3.0_teks.pdf,5W,Rev 3.0,teks,efficacy,unit,rule_full,lm/W,lm/W,True,
+LED_5W_Rev3.0_teks.pdf,5W,Rev 3.0,teks,cct,min,rule_full,6000.0,6000.0,True,
+LED_5W_Rev3.0_teks.pdf,5W,Rev 3.0,teks,cct,max,rule_full,7000.0,7000.0,True,
+LED_5W_Rev3.0_teks.pdf,5W,Rev 3.0,teks,cri,unit,rule_full,Ra,Ra,True,
+LED_5W_Rev3.0_teks.pdf,5W,Rev 3.0,teks,power_factor,min,rule_full,0.5,0.5,True,
+LED_5W_Rev3.0_ringkas.pdf,5W,Rev 3.0,ringkas,luminous_flux,min,rule_full,400.0,400.0,True,
+LED_5W_Rev3.0_ringkas.pdf,5W,Rev 3.0,ringkas,power,max,rule_full,5.5,5.5,True,
+LED_5W_Rev3.0_ringkas.pdf,5W,Rev 3.0,ringkas,efficacy,min,rule_full,78.0,78.0,True,
+LED_5W_Rev3.0_ringkas.pdf,5W,Rev 3.0,ringkas,cct,max,rule_full,7000.0,7000.0,True,
+LED_5W_Rev3.0_ringkas.pdf,5W,Rev 3.0,ringkas,cct,unit,rule_full,K,K,True,
+LED_5W_Rev3.0_ringkas.pdf,5W,Rev 3.0,ringkas,power_factor,min,rule_full,0.5,0.5,True,
+LED_9W_Rev1.0_tabel.pdf,9W,Rev 1.0,tabel,power,unit,rule_full,W,W,True,
+LED_9W_Rev1.0_tabel.pdf,9W,Rev 1.0,tabel,cct,max,rule_full,7000.0,7000.0,True,
+LED_9W_Rev1.0_tabel.pdf,9W,Rev 1.0,tabel,cct,unit,rule_full,K,K,True,
+LED_9W_Rev1.0_tabel.pdf,9W,Rev 1.0,tabel,cri,min,rule_full,80.0,80.0,True,
+LED_9W_Rev1.0_tabel.pdf,9W,Rev 1.0,tabel,power_factor,min,rule_full,0.5,0.5,True,
+LED_9W_Rev1.0_teks.pdf,9W,Rev 1.0,teks,power,max,rule_full,9.5,9.5,True,
+LED_9W_Rev1.0_teks.pdf,9W,Rev 1.0,teks,efficacy,min,rule_full,85.0,85.0,True,
+LED_9W_Rev1.0_teks.pdf,9W,Rev 1.0,teks,cct,min,rule_full,6000.0,6000.0,True,
+LED_9W_Rev1.0_teks.pdf,9W,Rev 1.0,teks,cct,max,rule_full,7000.0,7000.0,True,
+LED_9W_Rev1.0_teks.pdf,9W,Rev 1.0,teks,cri,min,rule_full,80.0,80.0,True,
+LED_9W_Rev1.0_teks.pdf,9W,Rev 1.0,teks,cri,unit,rule_full,Ra,Ra,True,
+LED_9W_Rev2.0_tabel.pdf,9W,Rev 2.0,tabel,power,max,rule_full,9.5,9.5,True,
+LED_9W_Rev2.0_tabel.pdf,9W,Rev 2.0,tabel,efficacy,min,rule_full,85.0,85.0,True,
+LED_9W_Rev2.0_tabel.pdf,9W,Rev 2.0,tabel,cct,min,rule_full,6000.0,6000.0,True,
+LED_9W_Rev2.0_tabel.pdf,9W,Rev 2.0,tabel,cri,min,rule_full,80.0,80.0,True,
+LED_9W_Rev2.0_terpotong.pdf,9W,Rev 2.0,terpotong,efficacy,unit,rule_full,lm/W,lm/W,True,
+LED_9W_Rev2.0_terpotong.pdf,9W,Rev 2.0,terpotong,cct,min,rule_full,6000.0,6000.0,True,
+LED_9W_Rev2.0_terpotong.pdf,9W,Rev 2.0,terpotong,cct,max,rule_full,7000.0,7000.0,True,
+LED_9W_Rev2.0_terpotong.pdf,9W,Rev 2.0,terpotong,cct,unit,rule_full,K,K,True,
+LED_9W_Rev2.0_terpotong.pdf,9W,Rev 2.0,terpotong,cri,min,rule_full,80.0,80.0,True,
+LED_9W_Rev2.0_terpotong.pdf,9W,Rev 2.0,terpotong,power_factor,min,rule_full,0.5,0.5,True,
+LED_9W_Rev3.0_tabel.pdf,9W,Rev 3.0,tabel,luminous_flux,min,rule_full,830.0,830.0,True,
+LED_9W_Rev3.0_tabel.pdf,9W,Rev 3.0,tabel,luminous_flux,unit,rule_full,lm,lm,True,
+LED_9W_Rev3.0_tabel.pdf,9W,Rev 3.0,tabel,efficacy,min,rule_full,85.0,85.0,True,
+LED_9W_Rev3.0_tabel.pdf,9W,Rev 3.0,tabel,efficacy,unit,rule_full,lm/W,lm/W,True,
+LED_9W_Rev3.0_tabel.pdf,9W,Rev 3.0,tabel,cct,min,rule_full,6000.0,6000.0,True,
+LED_9W_Rev3.0_tabel.pdf,9W,Rev 3.0,tabel,cct,max,rule_full,7000.0,7000.0,True,
+LED_9W_Rev3.0_tabel.pdf,9W,Rev 3.0,tabel,cct,unit,rule_full,K,K,True,
+LED_9W_Rev3.0_tabel.pdf,9W,Rev 3.0,tabel,cri,unit,rule_full,Ra,Ra,True,
+LED_9W_Rev3.0_tabel.pdf,9W,Rev 3.0,tabel,power_factor,min,rule_full,0.5,0.5,True,
+LED_9W_Rev3.0_teks.pdf,9W,Rev 3.0,teks,luminous_flux,unit,rule_full,lm,lm,True,
+LED_9W_Rev3.0_teks.pdf,9W,Rev 3.0,teks,efficacy,min,rule_full,85.0,85.0,True,
+LED_9W_Rev3.0_teks.pdf,9W,Rev 3.0,teks,efficacy,unit,rule_full,lm/W,lm/W,True,
+LED_9W_Rev3.0_teks.pdf,9W,Rev 3.0,teks,cct,min,rule_full,6000.0,6000.0,True,
+LED_9W_Rev3.0_teks.pdf,9W,Rev 3.0,teks,cct,unit,rule_full,K,K,True,
+LED_9W_Rev3.0_teks.pdf,9W,Rev 3.0,teks,cri,min,rule_full,80.0,80.0,True,
+LED_9W_Rev3.0_teks.pdf,9W,Rev 3.0,teks,cri,unit,rule_full,Ra,Ra,True,
+LED_9W_Rev3.0_teks.pdf,9W,Rev 3.0,teks,power_factor,min,rule_full,0.5,0.5,True,
+LED_9W_Rev3.0_ringkas.pdf,9W,Rev 3.0,ringkas,luminous_flux,unit,rule_full,lm,lm,True,
+LED_9W_Rev3.0_ringkas.pdf,9W,Rev 3.0,ringkas,power,max,rule_full,9.5,9.5,True,
+LED_9W_Rev3.0_ringkas.pdf,9W,Rev 3.0,ringkas,power,unit,rule_full,W,W,True,
+LED_9W_Rev3.0_ringkas.pdf,9W,Rev 3.0,ringkas,cct,max,rule_full,7000.0,7000.0,True,
+LED_9W_Rev3.0_ringkas.pdf,9W,Rev 3.0,ringkas,power_factor,min,rule_full,0.5,0.5,True,
+LED_12W_Rev1.0_tabel.pdf,12W,Rev 1.0,tabel,luminous_flux,unit,rule_full,lm,lm,True,
+LED_12W_Rev1.0_tabel.pdf,12W,Rev 1.0,tabel,power,max,rule_full,12.5,12.5,True,
+LED_12W_Rev1.0_tabel.pdf,12W,Rev 1.0,tabel,cct,min,rule_full,6000.0,6000.0,True,
+LED_12W_Rev1.0_tabel.pdf,12W,Rev 1.0,tabel,cct,max,rule_full,7000.0,7000.0,True,
+LED_12W_Rev1.0_tabel.pdf,12W,Rev 1.0,tabel,cct,unit,rule_full,K,K,True,
+LED_12W_Rev1.0_tabel.pdf,12W,Rev 1.0,tabel,cri,min,rule_full,80.0,80.0,True,
+LED_12W_Rev1.0_tabel.pdf,12W,Rev 1.0,tabel,cri,unit,rule_full,Ra,Ra,True,
+LED_12W_Rev1.0_teks.pdf,12W,Rev 1.0,teks,luminous_flux,unit,rule_full,lm,lm,True,
+LED_12W_Rev1.0_teks.pdf,12W,Rev 1.0,teks,power,unit,rule_full,W,W,True,
+LED_12W_Rev1.0_teks.pdf,12W,Rev 1.0,teks,efficacy,min,rule_full,90.0,90.0,True,
+LED_12W_Rev1.0_teks.pdf,12W,Rev 1.0,teks,cct,min,rule_full,6000.0,6000.0,True,
+LED_12W_Rev1.0_teks.pdf,12W,Rev 1.0,teks,cri,min,rule_full,80.0,80.0,True,
+LED_12W_Rev2.0_tabel.pdf,12W,Rev 2.0,tabel,luminous_flux,min,rule_full,1100.0,1100.0,True,
+LED_12W_Rev2.0_tabel.pdf,12W,Rev 2.0,tabel,power,unit,rule_full,W,W,True,
+LED_12W_Rev2.0_tabel.pdf,12W,Rev 2.0,tabel,efficacy,unit,rule_full,lm/W,lm/W,True,
+LED_12W_Rev2.0_tabel.pdf,12W,Rev 2.0,tabel,cct,max,rule_full,7000.0,7000.0,True,
+LED_12W_Rev2.0_tabel.pdf,12W,Rev 2.0,tabel,cct,unit,rule_full,K,K,True,
+LED_12W_Rev2.0_tabel.pdf,12W,Rev 2.0,tabel,cri,min,rule_full,80.0,80.0,True,
+LED_12W_Rev2.0_tabel.pdf,12W,Rev 2.0,tabel,cri,unit,rule_full,Ra,Ra,True,
+LED_12W_Rev2.0_terpotong.pdf,12W,Rev 2.0,terpotong,luminous_flux,unit,rule_full,lm,lm,True,
+LED_12W_Rev2.0_terpotong.pdf,12W,Rev 2.0,terpotong,power,max,rule_full,12.5,12.5,True,
+LED_12W_Rev2.0_terpotong.pdf,12W,Rev 2.0,terpotong,efficacy,min,rule_full,90.0,90.0,True,
+LED_12W_Rev2.0_terpotong.pdf,12W,Rev 2.0,terpotong,efficacy,unit,rule_full,lm/W,lm/W,True,
+LED_12W_Rev2.0_terpotong.pdf,12W,Rev 2.0,terpotong,cct,min,rule_full,6000.0,6000.0,True,
+LED_12W_Rev2.0_terpotong.pdf,12W,Rev 2.0,terpotong,cct,max,rule_full,7000.0,7000.0,True,
+LED_12W_Rev2.0_terpotong.pdf,12W,Rev 2.0,terpotong,cct,unit,rule_full,K,K,True,
+LED_12W_Rev2.0_terpotong.pdf,12W,Rev 2.0,terpotong,cri,min,rule_full,80.0,80.0,True,
+LED_12W_Rev2.0_terpotong.pdf,12W,Rev 2.0,terpotong,power_factor,min,rule_full,0.9,0.9,True,
+LED_12W_Rev2.0_teks.pdf,12W,Rev 2.0,teks,luminous_flux,min,rule_full,1100.0,1100.0,True,
+LED_12W_Rev2.0_teks.pdf,12W,Rev 2.0,teks,luminous_flux,unit,rule_full,lm,lm,True,
+LED_12W_Rev2.0_teks.pdf,12W,Rev 2.0,teks,power,unit,rule_full,W,W,True,
+LED_12W_Rev2.0_teks.pdf,12W,Rev 2.0,teks,efficacy,min,rule_full,90.0,90.0,True,
+LED_12W_Rev2.0_teks.pdf,12W,Rev 2.0,teks,efficacy,unit,rule_full,lm/W,lm/W,True,
+LED_12W_Rev2.0_teks.pdf,12W,Rev 2.0,teks,cct,min,rule_full,6000.0,6000.0,True,
+LED_12W_Rev2.0_teks.pdf,12W,Rev 2.0,teks,cct,max,rule_full,7000.0,7000.0,True,
+LED_12W_Rev2.0_teks.pdf,12W,Rev 2.0,teks,cri,min,rule_full,80.0,80.0,True,
+LED_12W_Rev2.0_teks.pdf,12W,Rev 2.0,teks,power_factor,min,rule_full,0.9,0.9,True,
+LED_12W_Rev3.0_tabel.pdf,12W,Rev 3.0,tabel,luminous_flux,min,rule_full,1100.0,1100.0,True,
+LED_12W_Rev3.0_tabel.pdf,12W,Rev 3.0,tabel,power,max,rule_full,12.5,12.5,True,
+LED_12W_Rev3.0_tabel.pdf,12W,Rev 3.0,tabel,cct,unit,rule_full,K,K,True,
+LED_12W_Rev3.0_tabel.pdf,12W,Rev 3.0,tabel,cri,min,rule_full,80.0,80.0,True,
+LED_12W_Rev3.0_tabel.pdf,12W,Rev 3.0,tabel,cri,unit,rule_full,Ra,Ra,True,
+LED_12W_Rev3.0_tabel.pdf,12W,Rev 3.0,tabel,power_factor,min,rule_full,0.9,0.9,True,
+LED_12W_Rev3.0_teks.pdf,12W,Rev 3.0,teks,luminous_flux,unit,rule_full,lm,lm,True,
+LED_12W_Rev3.0_teks.pdf,12W,Rev 3.0,teks,power,max,rule_full,12.5,12.5,True,
+LED_12W_Rev3.0_teks.pdf,12W,Rev 3.0,teks,cct,min,rule_full,6000.0,6000.0,True,
+LED_12W_Rev3.0_teks.pdf,12W,Rev 3.0,teks,cct,max,rule_full,7000.0,7000.0,True,
+LED_12W_Rev3.0_teks.pdf,12W,Rev 3.0,teks,cct,unit,rule_full,K,K,True,
+LED_12W_Rev3.0_teks.pdf,12W,Rev 3.0,teks,power_factor,min,rule_full,0.9,0.9,True,
+LED_12W_Rev3.0_ringkas.pdf,12W,Rev 3.0,ringkas,luminous_flux,min,rule_full,1100.0,1100.0,True,
+LED_12W_Rev3.0_ringkas.pdf,12W,Rev 3.0,ringkas,luminous_flux,unit,rule_full,lm,lm,True,
+LED_12W_Rev3.0_ringkas.pdf,12W,Rev 3.0,ringkas,power,max,rule_full,12.5,12.5,True,
+LED_12W_Rev3.0_ringkas.pdf,12W,Rev 3.0,ringkas,power,unit,rule_full,W,W,True,
+LED_12W_Rev3.0_ringkas.pdf,12W,Rev 3.0,ringkas,cct,min,rule_full,6000.0,6000.0,True,
+LED_12W_Rev3.0_ringkas.pdf,12W,Rev 3.0,ringkas,cct,unit,rule_full,K,K,True,
+LED_12W_Rev3.0_ringkas.pdf,12W,Rev 3.0,ringkas,cri,min,rule_full,80.0,80.0,True,
+LED_12W_Rev3.0_ringkas.pdf,12W,Rev 3.0,ringkas,cri,unit,rule_full,Ra,Ra,True,
+LED_12W_Rev3.0_ringkas.pdf,12W,Rev 3.0,ringkas,power_factor,min,rule_full,0.9,0.9,True,

@@ -1,60 +1,56 @@
-[← Back to portfolio](https://bagusbernadi.github.io/)
-
 # Project 26: Spec Compliance Extraction
 
-**Status: Design (rancangan).** Halaman rancangan ada di [`index.html`](index.html). Ekstraksi, analisis, dashboard, dan angka hasil belum dikerjakan, sehingga bagian Analysis, Recommendation, dan Impact di bawah masih kosong.
+Membaca batas spesifikasi dari PDF datasheet lampu LED menjadi tabel terstruktur, mencocokkannya dengan hasil ukur produksi, lalu mencari parameter yang paling sering gagal atau paling dekat ke batas. **Data simulasi** buatan sendiri; hasilnya menguji metode, bukan kondisi pabrik.
 
-**Tujuan:** membangun pipeline yang membaca batas spesifikasi dari dokumen PDF menjadi tabel terstruktur, lalu membandingkannya dengan hasil ukur produk, untuk menemukan parameter yang paling sering gagal atau paling dekat ke batas, sehingga pengendalian proses bisa difokuskan ke parameter yang paling berisiko.
+- Rancangan dan laporan (halaman web): `design-and-report/index.html`
+- Dashboard: `streamlit run code/3-presentation/streamlit/app.py` (dari folder `project/`; belum di-deploy)
+- Infografik: `project/results/3-presentation/infographic.png`
 
-| | |
-|---|---|
-| Kategori | Manufaktur (pabrik lampu LED) |
-| Tingkat | Menengah–lanjut |
-| Data | Simulasi: datasheet PDF dan hasil ukur dibuat sendiri (generator disertakan) |
-| Tools | Python (pdfplumber, pypdf, pandas), LLM (Claude API), Pydantic, DuckDB + SQL, Excel, Streamlit + Plotly |
+## Masalah
+Batas spec ada di PDF dan disalin manual ke Excel. Salah salin, salah satuan, atau memakai revisi lama mengubah putusan lolos/gagal.
 
-## 1. Problem
+## Data
+24 PDF datasheet simulasi (3 model x 3 revisi, 5 format, 1 hasil scan) dan 108.540 baris hasil ukur mentah (18.000 unit). 2.700 baris (2,49%) kotor, semuanya ditemukan dan ditangani (105.939 baris bersih). Seed tetap, hasil identik setiap dijalankan (`project/data/README.md`).
 
-**Pertanyaan utama:** Berapa persen hasil uji yang memenuhi spesifikasi untuk setiap parameter, dan parameter mana yang paling sering gagal atau paling dekat ke batas?
+## Temuan
+- **Ekstraksi:** akurasi aturan dasar 46,9%, aturan lengkap 100,0% pada gold set 160 field. Aturan dasar gagal pada format kalimat, label singkatan, dan tabel terpotong. Dokumen lolos validasi skema: 9 dari 24 (dasar) dan 23 dari 24 (lengkap); 1 PDF hasil scan masuk antrean review (tanpa OCR). Langkah LLM tersedia di `extract/llm.py` tetapi belum dijalankan (tidak ada kunci API).
+- **Compliance:** 98,59% unit lolos semua parameter (17.746 dari 18.000). cri 12W adalah penyumbang gagal terbesar (93 dari 255, 36%).
+- **Margin:** cri 12W paling dekat ke batas (12,3% hasil lolos dengan margin kurang dari 1 simpangan baku).
+- **Revisi spec:** dinilai dengan Rev 1.0 yang sudah usang, 54 dari 254 unit gagal (21,3%) tampak lolos.
+- **Antar model:** perbedaan pass rate signifikan (chi-square, koreksi Holm) untuk cri, power_factor, luminous_flux. Tren bulanan menurun tipis (Cochran-Armitage, p 0,007).
+- **Validasi:** SQL sama dengan pandas (105.939 baris), dengan Excel (54 dari 54 PASS), dan dengan kunci jawaban simulasi (0 selisih).
 
-Rancangan memecahnya menjadi 13 pertanyaan (8 Utama, 4 Pendukung, 1 Tambahan) dalam 5 tema: ekstraksi, compliance, revisi, dampak, dan validitas.
+## Rekomendasi
+1. Pantau cri 12W lebih dulu.
+2. Selalu nilai hasil uji dengan revisi spec yang berlaku pada tanggal uji (ASOF join), bukan revisi terbaru.
+3. Baca PDF hasil scan secara manual atau tambahkan OCR; PDF dengan format baru perlu masuk gold set.
+4. Tampilkan margin di samping pass rate.
 
-## 2. Data
+## Dampak (estimated, simulated)
+Pengecekan manual sekitar 16 jam per tahun pada asumsi 20 menit per dokumen (rentang 8 sampai 24 jam untuk 10 sampai 30 menit). Menit per dokumen adalah asumsi.
 
-- Sumber: data simulasi buatan sendiri, dibuat oleh `scripts/generate_docs.py` dan `scripts/generate_measurements.py` (Versi: v1; Tanggal dibuat: 28 Okt 2026; Seed: 26260302). Tidak memakai datasheet produsen atau data perusahaan.
-- Konteks: lampu LED model 5W, 9W, dan 12W, masing-masing 3 revisi spec; 6 parameter (luminous flux, daya, efikasi, CCT, CRI, power factor).
-- Ukuran (perkiraan): ±24 dokumen PDF; ±108.000 nilai hasil ukur (±18.000 unit × 6 parameter); gold set ±160 field berlabel manual.
-- Rencana tabel: `dim_spec`, `extraction_eval`, `measurement`, `compliance_result`.
-- Fakta yang sengaja ditanam: CRI model 12W dengan margin paling tipis, revisi batas luminous flux 9W di bulan ke-3, satuan dan simbol beragam, tabel terpotong halaman, satu PDF hasil scan, dan 2–3% hasil ukur kotor.
+## Batasan
+Data simulasi; gold set kecil (160 field); LLM belum dijalankan; tidak ada `lot_id`; margin dalam simpangan baku bergantung pada data; dashboard belum di-deploy.
 
-## 3. Analysis
-
-Belum dikerjakan. LLM hanya dipakai untuk membaca dokumen, dan akurasinya diukur pada gold set. Putusan pass/fail dihitung dengan SQL berdasarkan revisi spec yang berlaku pada tanggal uji.
-
-## 4. Recommendation
-
-Belum dikerjakan. Output yang direncanakan: daftar parameter yang perlu pengendalian ketat, berdasarkan pass rate dan margin terhadap spec.
-
-## 5. Impact
-
-Belum dikerjakan. Rumus yang akan dipakai (semua hasil diberi label `estimated` dan `simulated`):
-
+## Menjalankan ulang (dari folder `project/`)
 ```
-Menit dihemat per tahun = jumlah dokumen per tahun × menit pengecekan manual per dokumen
-```
-
-## Batasan yang sudah diketahui
-
-- LLM bisa salah membaca dokumen; hasil selalu divalidasi skema dan diukur akurasinya.
-- Gold set kecil, akurasi bisa berbeda pada format dokumen lain.
-- PDF hasil scan hanya ditandai untuk review (tanpa OCR).
-- Pass rate tinggi bisa menipu jika margin tipis, sehingga margin selalu ditampilkan.
-
-## Struktur repository
-
-```
-index.html   Halaman rancangan project (bisa dibuka di browser atau lewat GitHub Pages)
-README.md    Dokumen ini
+pip install -r requirements.txt
+python code/1-data-preparation/python/01_generate_docs.py
+python code/1-data-preparation/python/02_generate_measurements.py
+python code/1-data-preparation/python/03_clean_measurements.py
+python code/1-data-preparation/python/04_extract_specs.py
+python code/1-data-preparation/python/05_evaluate_extraction.py
+python code/1-data-preparation/python/06_build_db.py
+python code/2-analysis/python/07_run_queries.py
+python code/2-analysis/python/08_verify_stats.py
+python code/2-analysis/python/09_excel_crosscheck.py     # butuh LibreOffice
+python code/2-analysis/python/10_impact_ground_truth.py
+python code/3-presentation/python/11_build_dashboard_data.py
+python code/3-presentation/python/12_build_infographic.py
+python code/3-presentation/python/13_build_notebooks.py
+python code/3-presentation/python/14_build_readme.py
+python ../design-and-report/src/build_report.py
 ```
 
-Folder `docs/`, `extract/`, `data/`, `scripts/`, `sql/`, `notebooks/`, `dashboard/`, dan `outputs/` ditambahkan saat pengerjaan dimulai.
+## Struktur
+`design-and-report/` (rancangan dan laporan), `project/code/` (1-data-preparation, 2-analysis, 3-presentation, extract/), `project/results/` (CSV, notebook, infografik), `project/data/` (README, sample), `project/docs/`.

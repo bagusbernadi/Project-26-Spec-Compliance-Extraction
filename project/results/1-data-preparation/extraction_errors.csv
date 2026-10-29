@@ -1,0 +1,4 @@
+method,error_type,n,share,cum_share
+rule_basic,Format kalimat (bukan tabel),58,0.6823529411764706,0.6823529411764706
+rule_basic,Label singkatan tidak dikenal,15,0.17647058823529413,0.8588235294117648
+rule_basic,Tabel terpotong ke halaman berikutnya,12,0.1411764705882353,1.0

@@ -1,0 +1,19 @@
+{
+  "seed": 26260302,
+  "version": "v1",
+  "n_pdf": 24,
+  "by_format": {
+    "ringkas": 3,
+    "tabel": 9,
+    "teks": 8,
+    "teks_scan": 1,
+    "terpotong": 3
+  },
+  "gold_fields": 160,
+  "facts": [
+    "revisi batas luminous flux 9W di Rev 2.0 (berlaku 2026-05-01): 800 -> 830 lm",
+    "satuan dan simbol beragam antar format",
+    "tabel terpotong halaman pada format 'terpotong'",
+    "satu PDF hasil scan: LED_9W_Rev2.0_teks_scan.pdf"
+  ]
+}

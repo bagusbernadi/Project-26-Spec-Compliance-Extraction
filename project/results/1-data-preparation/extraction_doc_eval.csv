@@ -1,0 +1,49 @@
+doc,model,revision,format,method,text_layer,schema_ok,gold_fields,gold_correct,params_exact,exact_vs_truth,reason,needs_review
+LED_5W_Rev1.0_tabel.pdf,5W,Rev 1.0,tabel,rule_basic,True,True,11,11,6,True,,False
+LED_5W_Rev1.0_teks.pdf,5W,Rev 1.0,teks,rule_basic,True,False,8,0,0,False,"parameter belum terbaca: luminous_flux, power, efficacy, cct, cri, power_factor",True
+LED_5W_Rev2.0_tabel.pdf,5W,Rev 2.0,tabel,rule_basic,True,True,7,7,6,True,,False
+LED_5W_Rev2.0_terpotong.pdf,5W,Rev 2.0,terpotong,rule_basic,True,False,5,3,3,False,"parameter belum terbaca: cct, cri, power_factor",True
+LED_5W_Rev2.0_teks.pdf,5W,Rev 2.0,teks,rule_basic,True,False,9,0,0,False,"parameter belum terbaca: luminous_flux, power, efficacy, cct, cri, power_factor",True
+LED_5W_Rev3.0_tabel.pdf,5W,Rev 3.0,tabel,rule_basic,True,True,6,6,6,True,,False
+LED_5W_Rev3.0_teks.pdf,5W,Rev 3.0,teks,rule_basic,True,False,7,0,0,False,"parameter belum terbaca: luminous_flux, power, efficacy, cct, cri, power_factor",True
+LED_5W_Rev3.0_ringkas.pdf,5W,Rev 3.0,ringkas,rule_basic,True,False,6,2,1,False,"label tidak dikenal: CRI (Ra); label tidak dikenal: Eff.; label tidak dikenal: Flux; label tidak dikenal: PF; label tidak dikenal: Pwr; parameter belum terbaca: luminous_flux, power, efficacy, cri, power_factor",True
+LED_9W_Rev1.0_tabel.pdf,9W,Rev 1.0,tabel,rule_basic,True,True,5,5,6,True,,False
+LED_9W_Rev1.0_teks.pdf,9W,Rev 1.0,teks,rule_basic,True,False,6,0,0,False,"parameter belum terbaca: luminous_flux, power, efficacy, cct, cri, power_factor",True
+LED_9W_Rev2.0_tabel.pdf,9W,Rev 2.0,tabel,rule_basic,True,True,4,4,6,True,,False
+LED_9W_Rev2.0_terpotong.pdf,9W,Rev 2.0,terpotong,rule_basic,True,False,6,1,3,False,"parameter belum terbaca: cct, cri, power_factor",True
+LED_9W_Rev2.0_teks_scan.pdf,9W,Rev 2.0,teks,rule_basic,False,False,0,0,0,False,"tanpa lapisan teks (hasil scan), tanpa OCR",True
+LED_9W_Rev3.0_tabel.pdf,9W,Rev 3.0,tabel,rule_basic,True,True,9,9,6,True,,False
+LED_9W_Rev3.0_teks.pdf,9W,Rev 3.0,teks,rule_basic,True,False,8,0,0,False,"parameter belum terbaca: luminous_flux, power, efficacy, cct, cri, power_factor",True
+LED_9W_Rev3.0_ringkas.pdf,9W,Rev 3.0,ringkas,rule_basic,True,False,5,1,1,False,"label tidak dikenal: CRI (Ra); label tidak dikenal: Eff.; label tidak dikenal: Flux; label tidak dikenal: PF; label tidak dikenal: Pwr; parameter belum terbaca: luminous_flux, power, efficacy, cri, power_factor",True
+LED_12W_Rev1.0_tabel.pdf,12W,Rev 1.0,tabel,rule_basic,True,True,7,7,6,True,,False
+LED_12W_Rev1.0_teks.pdf,12W,Rev 1.0,teks,rule_basic,True,False,5,0,0,False,"parameter belum terbaca: luminous_flux, power, efficacy, cct, cri, power_factor",True
+LED_12W_Rev2.0_tabel.pdf,12W,Rev 2.0,tabel,rule_basic,True,True,7,7,6,True,,False
+LED_12W_Rev2.0_terpotong.pdf,12W,Rev 2.0,terpotong,rule_basic,True,False,9,4,3,False,"parameter belum terbaca: cct, cri, power_factor",True
+LED_12W_Rev2.0_teks.pdf,12W,Rev 2.0,teks,rule_basic,True,False,9,0,0,False,"parameter belum terbaca: luminous_flux, power, efficacy, cct, cri, power_factor",True
+LED_12W_Rev3.0_tabel.pdf,12W,Rev 3.0,tabel,rule_basic,True,True,6,6,6,True,,False
+LED_12W_Rev3.0_teks.pdf,12W,Rev 3.0,teks,rule_basic,True,False,6,0,0,False,"parameter belum terbaca: luminous_flux, power, efficacy, cct, cri, power_factor",True
+LED_12W_Rev3.0_ringkas.pdf,12W,Rev 3.0,ringkas,rule_basic,True,False,9,2,1,False,"label tidak dikenal: CRI (Ra); label tidak dikenal: Eff.; label tidak dikenal: Flux; label tidak dikenal: PF; label tidak dikenal: Pwr; parameter belum terbaca: luminous_flux, power, efficacy, cri, power_factor",True
+LED_5W_Rev1.0_tabel.pdf,5W,Rev 1.0,tabel,rule_full,True,True,11,11,6,True,,False
+LED_5W_Rev1.0_teks.pdf,5W,Rev 1.0,teks,rule_full,True,True,8,8,6,True,,False
+LED_5W_Rev2.0_tabel.pdf,5W,Rev 2.0,tabel,rule_full,True,True,7,7,6,True,,False
+LED_5W_Rev2.0_terpotong.pdf,5W,Rev 2.0,terpotong,rule_full,True,True,5,5,6,True,,False
+LED_5W_Rev2.0_teks.pdf,5W,Rev 2.0,teks,rule_full,True,True,9,9,6,True,,False
+LED_5W_Rev3.0_tabel.pdf,5W,Rev 3.0,tabel,rule_full,True,True,6,6,6,True,,False
+LED_5W_Rev3.0_teks.pdf,5W,Rev 3.0,teks,rule_full,True,True,7,7,6,True,,False
+LED_5W_Rev3.0_ringkas.pdf,5W,Rev 3.0,ringkas,rule_full,True,True,6,6,6,True,,False
+LED_9W_Rev1.0_tabel.pdf,9W,Rev 1.0,tabel,rule_full,True,True,5,5,6,True,,False
+LED_9W_Rev1.0_teks.pdf,9W,Rev 1.0,teks,rule_full,True,True,6,6,6,True,,False
+LED_9W_Rev2.0_tabel.pdf,9W,Rev 2.0,tabel,rule_full,True,True,4,4,6,True,,False
+LED_9W_Rev2.0_terpotong.pdf,9W,Rev 2.0,terpotong,rule_full,True,True,6,6,6,True,,False
+LED_9W_Rev2.0_teks_scan.pdf,9W,Rev 2.0,teks,rule_full,False,False,0,0,0,False,"tanpa lapisan teks (hasil scan), tanpa OCR",True
+LED_9W_Rev3.0_tabel.pdf,9W,Rev 3.0,tabel,rule_full,True,True,9,9,6,True,,False
+LED_9W_Rev3.0_teks.pdf,9W,Rev 3.0,teks,rule_full,True,True,8,8,6,True,,False
+LED_9W_Rev3.0_ringkas.pdf,9W,Rev 3.0,ringkas,rule_full,True,True,5,5,6,True,,False
+LED_12W_Rev1.0_tabel.pdf,12W,Rev 1.0,tabel,rule_full,True,True,7,7,6,True,,False
+LED_12W_Rev1.0_teks.pdf,12W,Rev 1.0,teks,rule_full,True,True,5,5,6,True,,False
+LED_12W_Rev2.0_tabel.pdf,12W,Rev 2.0,tabel,rule_full,True,True,7,7,6,True,,False
+LED_12W_Rev2.0_terpotong.pdf,12W,Rev 2.0,terpotong,rule_full,True,True,9,9,6,True,,False
+LED_12W_Rev2.0_teks.pdf,12W,Rev 2.0,teks,rule_full,True,True,9,9,6,True,,False
+LED_12W_Rev3.0_tabel.pdf,12W,Rev 3.0,tabel,rule_full,True,True,6,6,6,True,,False
+LED_12W_Rev3.0_teks.pdf,12W,Rev 3.0,teks,rule_full,True,True,6,6,6,True,,False
+LED_12W_Rev3.0_ringkas.pdf,12W,Rev 3.0,ringkas,rule_full,True,True,9,9,6,True,,False

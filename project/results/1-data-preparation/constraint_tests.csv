@@ -1,0 +1,11 @@
+table,test,outcome
+dim_spec,model di luar 5W/9W/12W,ditolak
+dim_spec,format revisi salah,ditolak
+dim_spec,kedua batas kosong,ditolak
+dim_spec,batas bawah >= batas atas,ditolak
+dim_spec,halaman sumber 0,ditolak
+dim_spec,"kunci ganda (model, revisi, parameter)",ditolak
+measurement,parameter tidak dikenal,ditolak
+measurement,nilai kosong,ditolak
+measurement,"kunci ganda (unit_id, parameter)",ditolak
+extraction_eval,metode tidak dikenal,ditolak

@@ -1,0 +1,6 @@
+fact_no,fakta,ditemukan,hasil
+1,CRI pada model 12W paling dekat ke batas,"median margin CRI 12W 2.01 simpangan baku (5W 2.87, 9W 2.90); pass rate 97.9%",Sesuai
+2,Revisi spec menaikkan batas minimal luminous flux 9W,batas 800 lm (Rev 1.0) menjadi 830 lm (Rev 2.0); pass rate 9W flux 100.0% menjadi 98.8%,Sesuai
+3,Satuan dan simbol beragam antar format,aturan dasar gagal pada 58 field kalimat dan 15 field singkatan; aturan lengkap membaca semuanya,Sesuai
+4,Tabel terpotong dan satu PDF hasil scan,12 field gagal pada tabel terpotong; PDF scan LED_9W_Rev2.0_teks_scan.pdf masuk antrean review,Sesuai
+5,Sekitar 2–3% hasil ukur kotor,2700 dari 108540 baris (2.49%); semua jenis ditemukan sama dengan yang ditanam,Sesuai
