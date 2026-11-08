@@ -2,6 +2,8 @@
 
 **Halaman web:** https://bagusbernadi.github.io/Project-26-Spec-Compliance-Extraction/
 
+**Status: Selesai dan digabung ke `main`.** Dashboard belum di-deploy.
+
 Membaca batas spesifikasi dari PDF datasheet lampu LED menjadi tabel terstruktur, mencocokkannya dengan hasil ukur produksi, lalu mencari parameter yang paling sering gagal atau paling dekat ke batas. **Data simulasi** buatan sendiri; hasilnya menguji metode, bukan kondisi pabrik.
 
 - Rancangan dan laporan (halaman web): `design-and-report/index.html`
